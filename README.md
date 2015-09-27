@@ -5,6 +5,7 @@ Embeddable SCADA for Small Applications
 ![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12038144_1026989310686119_7888496942013770453_n.jpg?oh=3a1455914d07ba34200047bfd716b529&oe=56A3AA27)
 
 **Definições de Projeto**
+
 Este software consiste em desenvolver um software de IHM como uma interface gráfica do usuário (GUI) baseada em software de código aberto com protocolos de comunicação e de dados. Devendo possuir as mesmas funções dos SCADAs comerciais, ele usa o conceito de módulos, e como é software de fonte aberta, por meio de modificação, poderia ser aplicável ou alterado a qualquer momento, sem a necessidade de qualquer autorização, qualquer licença de qualquer autoridade, etc. Simplesmente é um sistema aberto em todo o hardware e software, apenas necessita de um conhecimento básico para quem o implementar.
 
 Em relação a interface gráfica, foi adotado o Qt, por possuir muitos widgets e ser uma biblioteca independente de sistema operacional e linguagem de programação. Utilizado em conjunto com o Qt, a biblioteca Qwt(Qt Widgets para aplicações técnicas) fornece vários widgtes comumente usados em telas de supervisão SCADA, onde a partir da herança, alguns widgets específicos foram desenvolvidos, outros adaptados, e esta biblioteca foi definida como GUI, juntamente com o Qt Designer usado para desenhar graficamente as telas.
@@ -80,6 +81,7 @@ Pode emitir eventos, como disparo de scripts que realizam determinadas tarefas e
 Este módulo engloba as principais funções do SCADA, como a processamento do arquivo de definição e conexão das Tags com os Widgets da IHM, à partir do seu ciclo de varredura que atualiza os valores dos componentes em supervisão. 
 
 **{TAG}**
+
 O principal objeto dentro do ESSA. Comprende o objeto que carrega as caracteristicas e valor para o contexto do SCADA. É a aquisição de dados para o Runtime. 
 
 Uma Tag pode ser provedora de dados, assim o valor dela é de acordo com o seu objeto de comunicação ou de dados. Se ela não for provedora, é uma Tag de valor estático. 
@@ -107,6 +109,7 @@ Responsável pelo link de protocolo que se comunica com o equipamento
 
 
 **{Adapter}**
+
 A IHM possui componentes Widget que podem ou não se comunicar com Tags. Havendo comunicação, ela é realizado por um Adapeter. 
 
 Quando uma Tag é atualizada por um objeto de comunicação, ela pode estar vinculada a um Widget, necessitando o widget atualizar seu valor com o novo valor da Tag. Este valor nem sempre esta na mesma escala, ou unidade que o widget trabalha, necessitando de uma adaptação. Um botão de estado que trabalha com 0 e 1, pode corresponder a um Widget display que representa na IHM a mensagem de "Aberto" ou "Fechado", por exemplo, o adaptador é responsável por essa mudança de comportamento. 
@@ -194,6 +197,7 @@ Atualmente existe três tipos de adaptadores disponíveis no ESSA:
 ---
 
 **{Comunicação}**
+
 Este pacote é o responsável pela comunicação do CLP, placa de aquisição de dados, microcontrolador, ou dispositivo externo que realize a aquisição e a atuação sobre o dispositivo ou equipamento a ser monitorado. 
 
 A comunicação é realizada através da rede \textit{Serial}, sendo que o equipamento de aquisição necessita de um protocolo para que realize esta tarefa. 
@@ -211,7 +215,11 @@ O objeto é criado pelo \textit{Factory Method}, para isso é necessário o usu�
 
 Obs: Ambas comunicações compartilham essas propriedades:
 
-> **[name]** Nome do objeto de comunicação, necessário aos links. **[port]** Porta de Comunicação. O Padrão '/dev/ttyACM0'. **[baudrate]** Taxa de transmissão de dados. O Padrão '9600'.
+> **[name]** Nome do objeto de comunicação, necessário aos links. 
+
+> **[port]** Porta de Comunicação. O Padrão '/dev/ttyACM0'. 
+
+> **[baudrate]** Taxa de transmissão de dados. O Padrão '9600'.
 
  1. **{ArduinoLink}**
 No desenvolvimento da comunicação com Arduino, foi utilizado o módulo pyFirmata\citep{pyFirmata:2014} que é uma interface Python para protocolo Firmata \citep{Firmata:2014} biblioteca que implementa o protocolo Firmata para se comunicar com o software no computador host. Permite escrever um firmware personalizado sem ter que criar um protocolo e objetos próprios. 
@@ -225,9 +233,11 @@ No desenvolvimento da comunicação com Arduino, foi utilizado o módulo pyFirma
  Definido o objeto, é necessário definir os Links. Um ArduinoLink tem os seguintes parâmetros necessários, board e pin, que são respectivamente o nome do objeto de comunicação desse link e o pino de comunicação utilizado no Arduino.
 
  A definição do pino de comunicação segue o padrão "tipo:pino:modo":
->**[tipo]** Tipo de pino Arduino: a ou d. ("a" referente a Analógico e "d" referente a Digital)
-**[pino]** Numero do pino
-**[modo]** Modo do Pino: i, o ou p. ("i" equivale Input, "o" para Output e "p" é pwm)
+> **[tipo]** Tipo de pino Arduino: a ou d. ("a" referente a Analógico e "d" referente a Digital)
+
+> **[pino]** Numero do pino
+
+> **[modo]** Modo do Pino: i, o ou p. ("i" equivale Input, "o" para Output e "p" é pwm)
 
 
 
@@ -240,9 +250,13 @@ No desenvolvimento da comunicação com Arduino, foi utilizado o módulo pyFirma
  	Se a comunicação for para um dispositivo com o protocolo Modbus, é necessário ao menos definir os seguintes parâmetros: (name, port, baudrate e address), correspondentes a nome do Link, porta serial em que se encontra o dispositivo de aquisição, taxa de transmissão e endereço do escravo. Uma comunicação Modbus possui alguns parametros adicionais de configuração, que se definidos, sobreescreves os valores padrão da comunicação, sendo estes adicionais: (bytesize, parity, timeout e mode).
 
 	> **[address]** Endereço do escravo.
+
 	> **[bytesize]** Tamanho dos Bits. O Padrão '8'.
+
 	> **[parity]** Bit de paridade. O Padrão 'N'.
+
 	> **[timeout]** Tempo Limite. O Padrão '0.05'.
+
 	> **[mode]** Modo de Comunicação. O Padrão RTU.
 
  A comunicação com Modbus que é um protocolo de comunicação industrial foi possível com a utilização do MinimalModbus\{MinimalModbus:2014}, que é um módulo Python para comunicação com instrumentos (escravos) a partir de um computador (mestre) usando o protocolo Modbus. Suporta o protocolo RTU e o ASCII.
@@ -255,6 +269,7 @@ No desenvolvimento da comunicação com Arduino, foi utilizado o módulo pyFirma
 
 ---
 **{Log}**
+
 ![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12037993_1026989397352777_365538498712210614_n.jpg?oh=e7e22205c74c87f5e90140b1b202d2bf&oe=568AF684)
 Uma {Tag} é definida para ser monitorada, então a supervisão desse dado passa pelo log de dados, que é o processo de registro de eventos relevantes no sistema. A {tag} pode requerer um log constante ou a partir do momento que ela dispara um alarme. 
 Um arquivo de log armazena mensagens emitidas pelo sistema, tanto durante o funcionamento quanto em falhas que eles possam vir a ter.
@@ -286,6 +301,7 @@ Um Text Logger pode ser utilizado para gerar um gráfico.
 ---
 
 **{IHM}**
+
 IHM é a interface em que o operador visualiza as informações sobre os processos e interage com eles.
 O pacote da IHM é composto por componentes gráficos e {widgets} Qt. Um widget seria a definição deste componente, como um button, slider, display, e ele é instanciado na tela {screen}, tanto o widget quanto a tela, trabalham com eventos, a IHM pode disparar ações para dispositivos externos, para a realização da atuação, por exemplo, e o widget para atualizar seu valor ou estado.
 
@@ -296,9 +312,11 @@ O processo intermediário do {adapter} é utilizado já que pode realizar o mape
 ---
 
 **{Alarm}**
+
 Classe que instancia um alarme vinculado a uma Tag. As propriedades a serem definidas para um alarme são:
 
 > [Alarm] 
+
 > **[id]** Id do alarme.
 
 > **[tags]** Tags as quais ele será atribuído para supervisionar.
@@ -314,9 +332,13 @@ Classe que instancia um alarme vinculado a uma Tag. As propriedades a serem defi
 Quando definido, ele executa em razão do valor das tags a ele atribuido. Um alarme nem sempre necessita de alera quando um limite máximo é ultrapassado, pode ocorrer de um valor minimo tambem disparar uma sinalização. Pensando nisso, um alarme pode possuir estes limites:
 
 > [Limits] 
+
 > **[minmin]** Máximo valor mínimo que a Tag pode chegar e dispara alarme.
+
 > **[min]** Valor mínimo, quando ultrapassar dispara Alarme.
+
 > **[max]** Valor maximo, quando ultrapassar dispara Alarme.
+
 > **[maxmax]** Máximo valor máximo para a tag. Dispara alarme quando ultrapassar.
 
 	
@@ -333,12 +355,14 @@ Tem-se dessa forma todas as informações necessárias para uma revisão e poste
 
 ---
 **{Scan}**
+
 O ESSA possui as Tags que trocam informações com os componentes de comunicação. As Tags possuem um tempo definido de {Scan}, que após passado este tempo, a Tag deve consultar com o componente se o seu valor alterou desde a ultima consulta. Caso o valor tenha alterado, então a Tag atualiza seu valor e seu atributo de tempo, e então preve conforme o seu tempo de scan, quando deve ser a nova atualização.
 Esse processo é executado dentro da classe {Scan}, que é uma {Thread} de varredura. Um ciclo constante que verifica para todas as Tags sua atualização.
 
 ---
 
 **{Design}**
+
 ![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/11959995_1026989430686107_5623449826690704935_n.jpg?oh=800289e07b7bed4f65cd066f77b281dd&oe=568ABD1A)
 Responsável por projetar e configurar a tela, IHM do supervisório. Foi desenvolvido um template, figura \ref{figTemplate}, próprio para o desenvolvimento do SCADA dentro do Qt Designer. Este template engloba botões de menu que acessam funções internas do software e também disponibiliza um componente Led de execução, em que ao ocorrer alguma notificação, altera sua cor para que o usuário operador possa visualizar o ocorrido e ficar ciente da situação. 
 

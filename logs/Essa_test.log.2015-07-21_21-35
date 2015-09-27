@@ -1,0 +1,270 @@
+2015-07-21 21:23:55,057 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:24:11,334 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:24:11,334 loggerTag    INFO     New Tag | Name:tagLed Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:24:11,334 loggerTag    INFO     New Tag | Name:tagLed Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:24:25,935 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:24:25,936 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:24:25,936 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:24:52,634 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:24:52,634 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 21:24:52,634 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 21:25:29,010 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:25:29,011 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:25:29,011 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:27:39,149 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:27:39,150 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:27:39,150 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:28:59,214 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:29:04,782 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:29:04,783 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:29:04,783 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:29:34,148 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:29:34,148 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 21:29:34,148 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 21:30:34,227 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:30:34,228 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:30:34,228 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:30:38,088 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:30:38,088 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:31:15,751 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:31:15,751 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:31:15,751 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:31:17,711 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:31:17,711 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:32:14,819 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:32:14,819 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:32:14,819 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:32:17,252 loggerTag    INFO     tagDouble Update Value: 0
+2015-07-21 21:32:17,252 loggerTag    INFO     tagDouble Update Value: 0
+2015-07-21 21:32:18,571 loggerTag    INFO     tagDouble Update Value: 2
+2015-07-21 21:32:18,571 loggerTag    INFO     tagDouble Update Value: 2
+2015-07-21 21:32:18,672 loggerTag    INFO     tagDouble Update Value: 7
+2015-07-21 21:32:18,672 loggerTag    INFO     tagDouble Update Value: 7
+2015-07-21 21:32:18,773 loggerTag    INFO     tagDouble Update Value: 10
+2015-07-21 21:32:18,773 loggerTag    INFO     tagDouble Update Value: 10
+2015-07-21 21:32:18,874 loggerTag    INFO     tagDouble Update Value: 15
+2015-07-21 21:32:18,874 loggerTag    INFO     tagDouble Update Value: 15
+2015-07-21 21:32:18,975 loggerTag    INFO     tagDouble Update Value: 23
+2015-07-21 21:32:18,975 loggerTag    INFO     tagDouble Update Value: 23
+2015-07-21 21:32:19,076 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:19,076 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:19,177 loggerTag    INFO     tagDouble Update Value: 37
+2015-07-21 21:32:19,177 loggerTag    INFO     tagDouble Update Value: 37
+2015-07-21 21:32:19,278 loggerTag    INFO     tagDouble Update Value: 52
+2015-07-21 21:32:19,278 loggerTag    INFO     tagDouble Update Value: 52
+2015-07-21 21:32:19,379 loggerTag    INFO     tagDouble Update Value: 60
+2015-07-21 21:32:19,379 loggerTag    INFO     tagDouble Update Value: 60
+2015-07-21 21:32:19,480 loggerTag    INFO     tagDouble Update Value: 68
+2015-07-21 21:32:19,480 loggerTag    INFO     tagDouble Update Value: 68
+2015-07-21 21:32:19,581 loggerTag    INFO     tagDouble Update Value: 82
+2015-07-21 21:32:19,581 loggerTag    INFO     tagDouble Update Value: 82
+2015-07-21 21:32:19,682 loggerTag    INFO     tagDouble Update Value: 88
+2015-07-21 21:32:19,682 loggerTag    INFO     tagDouble Update Value: 88
+2015-07-21 21:32:19,783 loggerTag    INFO     tagDouble Update Value: 100
+2015-07-21 21:32:19,783 loggerTag    INFO     tagDouble Update Value: 100
+2015-07-21 21:32:20,147 loggerTag    INFO     tagDouble Update Value: 98
+2015-07-21 21:32:20,147 loggerTag    INFO     tagDouble Update Value: 98
+2015-07-21 21:32:20,248 loggerTag    INFO     tagDouble Update Value: 82
+2015-07-21 21:32:20,248 loggerTag    INFO     tagDouble Update Value: 82
+2015-07-21 21:32:20,349 loggerTag    INFO     tagDouble Update Value: 57
+2015-07-21 21:32:20,349 loggerTag    INFO     tagDouble Update Value: 57
+2015-07-21 21:32:20,450 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:20,450 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:20,551 loggerTag    INFO     tagDouble Update Value: 22
+2015-07-21 21:32:20,551 loggerTag    INFO     tagDouble Update Value: 22
+2015-07-21 21:32:20,652 loggerTag    INFO     tagDouble Update Value: 13
+2015-07-21 21:32:20,652 loggerTag    INFO     tagDouble Update Value: 13
+2015-07-21 21:32:20,753 loggerTag    INFO     tagDouble Update Value: 0
+2015-07-21 21:32:20,753 loggerTag    INFO     tagDouble Update Value: 0
+2015-07-21 21:32:21,115 loggerTag    INFO     tagDouble Update Value: 3
+2015-07-21 21:32:21,115 loggerTag    INFO     tagDouble Update Value: 3
+2015-07-21 21:32:21,216 loggerTag    INFO     tagDouble Update Value: 27
+2015-07-21 21:32:21,216 loggerTag    INFO     tagDouble Update Value: 27
+2015-07-21 21:32:21,317 loggerTag    INFO     tagDouble Update Value: 45
+2015-07-21 21:32:21,317 loggerTag    INFO     tagDouble Update Value: 45
+2015-07-21 21:32:21,418 loggerTag    INFO     tagDouble Update Value: 58
+2015-07-21 21:32:21,418 loggerTag    INFO     tagDouble Update Value: 58
+2015-07-21 21:32:21,519 loggerTag    INFO     tagDouble Update Value: 78
+2015-07-21 21:32:21,519 loggerTag    INFO     tagDouble Update Value: 78
+2015-07-21 21:32:21,620 loggerTag    INFO     tagDouble Update Value: 92
+2015-07-21 21:32:21,620 loggerTag    INFO     tagDouble Update Value: 92
+2015-07-21 21:32:21,721 loggerTag    INFO     tagDouble Update Value: 100
+2015-07-21 21:32:21,721 loggerTag    INFO     tagDouble Update Value: 100
+2015-07-21 21:32:22,099 loggerTag    INFO     tagDouble Update Value: 98
+2015-07-21 21:32:22,099 loggerTag    INFO     tagDouble Update Value: 98
+2015-07-21 21:32:22,200 loggerTag    INFO     tagDouble Update Value: 72
+2015-07-21 21:32:22,200 loggerTag    INFO     tagDouble Update Value: 72
+2015-07-21 21:32:22,301 loggerTag    INFO     tagDouble Update Value: 55
+2015-07-21 21:32:22,301 loggerTag    INFO     tagDouble Update Value: 55
+2015-07-21 21:32:22,402 loggerTag    INFO     tagDouble Update Value: 42
+2015-07-21 21:32:22,402 loggerTag    INFO     tagDouble Update Value: 42
+2015-07-21 21:32:22,503 loggerTag    INFO     tagDouble Update Value: 30
+2015-07-21 21:32:22,503 loggerTag    INFO     tagDouble Update Value: 30
+2015-07-21 21:32:22,604 loggerTag    INFO     tagDouble Update Value: 25
+2015-07-21 21:32:22,604 loggerTag    INFO     tagDouble Update Value: 25
+2015-07-21 21:32:22,705 loggerTag    INFO     tagDouble Update Value: 17
+2015-07-21 21:32:22,705 loggerTag    INFO     tagDouble Update Value: 17
+2015-07-21 21:32:22,806 loggerTag    INFO     tagDouble Update Value: 8
+2015-07-21 21:32:22,806 loggerTag    INFO     tagDouble Update Value: 8
+2015-07-21 21:32:23,011 loggerTag    INFO     tagDouble Update Value: 10
+2015-07-21 21:32:23,011 loggerTag    INFO     tagDouble Update Value: 10
+2015-07-21 21:32:23,112 loggerTag    INFO     tagDouble Update Value: 40
+2015-07-21 21:32:23,112 loggerTag    INFO     tagDouble Update Value: 40
+2015-07-21 21:32:23,213 loggerTag    INFO     tagDouble Update Value: 52
+2015-07-21 21:32:23,213 loggerTag    INFO     tagDouble Update Value: 52
+2015-07-21 21:32:23,314 loggerTag    INFO     tagDouble Update Value: 67
+2015-07-21 21:32:23,314 loggerTag    INFO     tagDouble Update Value: 67
+2015-07-21 21:32:23,415 loggerTag    INFO     tagDouble Update Value: 78
+2015-07-21 21:32:23,415 loggerTag    INFO     tagDouble Update Value: 78
+2015-07-21 21:32:23,516 loggerTag    INFO     tagDouble Update Value: 92
+2015-07-21 21:32:23,516 loggerTag    INFO     tagDouble Update Value: 92
+2015-07-21 21:32:23,643 loggerTag    INFO     tagDouble Update Value: 88
+2015-07-21 21:32:23,643 loggerTag    INFO     tagDouble Update Value: 88
+2015-07-21 21:32:23,744 loggerTag    INFO     tagDouble Update Value: 60
+2015-07-21 21:32:23,744 loggerTag    INFO     tagDouble Update Value: 60
+2015-07-21 21:32:23,845 loggerTag    INFO     tagDouble Update Value: 42
+2015-07-21 21:32:23,845 loggerTag    INFO     tagDouble Update Value: 42
+2015-07-21 21:32:23,946 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:23,946 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:24,047 loggerTag    INFO     tagDouble Update Value: 23
+2015-07-21 21:32:24,047 loggerTag    INFO     tagDouble Update Value: 23
+2015-07-21 21:32:24,260 loggerTag    INFO     tagDouble Update Value: 25
+2015-07-21 21:32:24,260 loggerTag    INFO     tagDouble Update Value: 25
+2015-07-21 21:32:24,360 loggerTag    INFO     tagDouble Update Value: 58
+2015-07-21 21:32:24,360 loggerTag    INFO     tagDouble Update Value: 58
+2015-07-21 21:32:24,461 loggerTag    INFO     tagDouble Update Value: 70
+2015-07-21 21:32:24,461 loggerTag    INFO     tagDouble Update Value: 70
+2015-07-21 21:32:24,562 loggerTag    INFO     tagDouble Update Value: 82
+2015-07-21 21:32:24,562 loggerTag    INFO     tagDouble Update Value: 82
+2015-07-21 21:32:24,663 loggerTag    INFO     tagDouble Update Value: 83
+2015-07-21 21:32:24,663 loggerTag    INFO     tagDouble Update Value: 83
+2015-07-21 21:32:24,764 loggerTag    INFO     tagDouble Update Value: 22
+2015-07-21 21:32:24,764 loggerTag    INFO     tagDouble Update Value: 22
+2015-07-21 21:32:24,865 loggerTag    INFO     tagDouble Update Value: 2
+2015-07-21 21:32:24,865 loggerTag    INFO     tagDouble Update Value: 2
+2015-07-21 21:32:24,980 loggerTag    INFO     tagDouble Update Value: 3
+2015-07-21 21:32:24,980 loggerTag    INFO     tagDouble Update Value: 3
+2015-07-21 21:32:25,081 loggerTag    INFO     tagDouble Update Value: 40
+2015-07-21 21:32:25,081 loggerTag    INFO     tagDouble Update Value: 40
+2015-07-21 21:32:25,182 loggerTag    INFO     tagDouble Update Value: 57
+2015-07-21 21:32:25,182 loggerTag    INFO     tagDouble Update Value: 57
+2015-07-21 21:32:25,283 loggerTag    INFO     tagDouble Update Value: 67
+2015-07-21 21:32:25,283 loggerTag    INFO     tagDouble Update Value: 67
+2015-07-21 21:32:25,396 loggerTag    INFO     tagDouble Update Value: 63
+2015-07-21 21:32:25,396 loggerTag    INFO     tagDouble Update Value: 63
+2015-07-21 21:32:25,497 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:25,497 loggerTag    INFO     tagDouble Update Value: 32
+2015-07-21 21:32:25,598 loggerTag    INFO     tagDouble Update Value: 17
+2015-07-21 21:32:25,598 loggerTag    INFO     tagDouble Update Value: 17
+2015-07-21 21:32:25,699 loggerTag    INFO     tagDouble Update Value: 35
+2015-07-21 21:32:25,699 loggerTag    INFO     tagDouble Update Value: 35
+2015-07-21 21:32:25,800 loggerTag    INFO     tagDouble Update Value: 68
+2015-07-21 21:32:25,800 loggerTag    INFO     tagDouble Update Value: 68
+2015-07-21 21:32:25,901 loggerTag    INFO     tagDouble Update Value: 75
+2015-07-21 21:32:25,901 loggerTag    INFO     tagDouble Update Value: 75
+2015-07-21 21:32:26,002 loggerTag    INFO     tagDouble Update Value: 52
+2015-07-21 21:32:26,002 loggerTag    INFO     tagDouble Update Value: 52
+2015-07-21 21:32:26,103 loggerTag    INFO     tagDouble Update Value: 30
+2015-07-21 21:32:26,103 loggerTag    INFO     tagDouble Update Value: 30
+2015-07-21 21:32:26,204 loggerTag    INFO     tagDouble Update Value: 27
+2015-07-21 21:32:26,204 loggerTag    INFO     tagDouble Update Value: 27
+2015-07-21 21:32:26,305 loggerTag    INFO     tagDouble Update Value: 67
+2015-07-21 21:32:26,305 loggerTag    INFO     tagDouble Update Value: 67
+2015-07-21 21:32:26,406 loggerTag    INFO     tagDouble Update Value: 73
+2015-07-21 21:32:26,406 loggerTag    INFO     tagDouble Update Value: 73
+2015-07-21 21:34:18,589 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:34:18,590 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:34:18,590 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:34:20,727 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:34:20,727 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:34:21,752 loggerTag    INFO     tagDouble Update Value: 1.0
+2015-07-21 21:34:21,752 loggerTag    INFO     tagDouble Update Value: 1.0
+2015-07-21 21:34:22,086 loggerTag    INFO     tagDouble Update Value: 2.0
+2015-07-21 21:34:22,086 loggerTag    INFO     tagDouble Update Value: 2.0
+2015-07-21 21:34:22,239 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 21:34:22,239 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 21:34:22,519 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 21:34:22,519 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 21:34:22,807 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 21:34:22,807 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 21:34:23,087 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 21:34:23,087 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 21:34:23,239 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 21:34:23,239 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 21:34:23,375 loggerTag    INFO     tagDouble Update Value: 8.0
+2015-07-21 21:34:23,375 loggerTag    INFO     tagDouble Update Value: 8.0
+2015-07-21 21:34:23,511 loggerTag    INFO     tagDouble Update Value: 9.0
+2015-07-21 21:34:23,511 loggerTag    INFO     tagDouble Update Value: 9.0
+2015-07-21 21:34:23,655 loggerTag    INFO     tagDouble Update Value: 10.0
+2015-07-21 21:34:23,655 loggerTag    INFO     tagDouble Update Value: 10.0
+2015-07-21 21:34:23,807 loggerTag    INFO     tagDouble Update Value: 11.0
+2015-07-21 21:34:23,807 loggerTag    INFO     tagDouble Update Value: 11.0
+2015-07-21 21:34:23,951 loggerTag    INFO     tagDouble Update Value: 12.0
+2015-07-21 21:34:23,951 loggerTag    INFO     tagDouble Update Value: 12.0
+2015-07-21 21:34:24,111 loggerTag    INFO     tagDouble Update Value: 13.0
+2015-07-21 21:34:24,111 loggerTag    INFO     tagDouble Update Value: 13.0
+2015-07-21 21:34:24,263 loggerTag    INFO     tagDouble Update Value: 14.0
+2015-07-21 21:34:24,263 loggerTag    INFO     tagDouble Update Value: 14.0
+2015-07-21 21:34:24,415 loggerTag    INFO     tagDouble Update Value: 15.0
+2015-07-21 21:34:24,415 loggerTag    INFO     tagDouble Update Value: 15.0
+2015-07-21 21:34:24,516 loggerTag    INFO     tagDouble Update Value: 16.0
+2015-07-21 21:34:24,516 loggerTag    INFO     tagDouble Update Value: 16.0
+2015-07-21 21:34:24,703 loggerTag    INFO     tagDouble Update Value: 17.0
+2015-07-21 21:34:24,703 loggerTag    INFO     tagDouble Update Value: 17.0
+2015-07-21 21:34:24,848 loggerTag    INFO     tagDouble Update Value: 18.0
+2015-07-21 21:34:24,848 loggerTag    INFO     tagDouble Update Value: 18.0
+2015-07-21 21:34:24,975 loggerTag    INFO     tagDouble Update Value: 19.0
+2015-07-21 21:34:24,975 loggerTag    INFO     tagDouble Update Value: 19.0
+2015-07-21 21:34:25,095 loggerTag    INFO     tagDouble Update Value: 20.0
+2015-07-21 21:34:25,095 loggerTag    INFO     tagDouble Update Value: 20.0
+2015-07-21 21:34:25,223 loggerTag    INFO     tagDouble Update Value: 21.0
+2015-07-21 21:34:25,223 loggerTag    INFO     tagDouble Update Value: 21.0
+2015-07-21 21:34:25,343 loggerTag    INFO     tagDouble Update Value: 22.0
+2015-07-21 21:34:25,343 loggerTag    INFO     tagDouble Update Value: 22.0
+2015-07-21 21:34:25,479 loggerTag    INFO     tagDouble Update Value: 23.0
+2015-07-21 21:34:25,479 loggerTag    INFO     tagDouble Update Value: 23.0
+2015-07-21 21:35:00,816 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:35:00,816 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:35:00,816 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:35:02,233 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:35:02,233 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 21:35:04,526 loggerTag    INFO     tagDouble Update Value: 1.0
+2015-07-21 21:35:04,526 loggerTag    INFO     tagDouble Update Value: 1.0
+2015-07-21 21:35:04,854 loggerTag    INFO     tagDouble Update Value: 2.0
+2015-07-21 21:35:04,854 loggerTag    INFO     tagDouble Update Value: 2.0
+2015-07-21 21:35:05,005 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 21:35:05,005 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 21:35:05,158 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 21:35:05,158 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 21:35:05,301 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 21:35:05,301 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 21:35:05,454 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 21:35:05,454 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 21:35:05,598 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 21:35:05,598 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 21:35:05,742 loggerTag    INFO     tagDouble Update Value: 8.0
+2015-07-21 21:35:05,742 loggerTag    INFO     tagDouble Update Value: 8.0
+2015-07-21 21:35:05,878 loggerTag    INFO     tagDouble Update Value: 9.0
+2015-07-21 21:35:05,878 loggerTag    INFO     tagDouble Update Value: 9.0
+2015-07-21 21:35:06,021 loggerTag    INFO     tagDouble Update Value: 10.0
+2015-07-21 21:35:06,021 loggerTag    INFO     tagDouble Update Value: 10.0
+2015-07-21 21:35:06,165 loggerTag    INFO     tagDouble Update Value: 11.0
+2015-07-21 21:35:06,165 loggerTag    INFO     tagDouble Update Value: 11.0
+2015-07-21 21:35:06,266 loggerTag    INFO     tagDouble Update Value: 12.0
+2015-07-21 21:35:06,266 loggerTag    INFO     tagDouble Update Value: 12.0
+2015-07-21 21:35:06,445 loggerTag    INFO     tagDouble Update Value: 13.0
+2015-07-21 21:35:06,445 loggerTag    INFO     tagDouble Update Value: 13.0
+2015-07-21 21:35:06,590 loggerTag    INFO     tagDouble Update Value: 14.0
+2015-07-21 21:35:06,590 loggerTag    INFO     tagDouble Update Value: 14.0
+2015-07-21 21:35:07,090 loggerTag    INFO     tagDouble Update Value: 15.0
+2015-07-21 21:35:07,090 loggerTag    INFO     tagDouble Update Value: 15.0
+2015-07-21 21:35:07,241 loggerTag    INFO     tagDouble Update Value: 16.0
+2015-07-21 21:35:07,241 loggerTag    INFO     tagDouble Update Value: 16.0
+2015-07-21 21:35:07,390 loggerTag    INFO     tagDouble Update Value: 17.0
+2015-07-21 21:35:07,390 loggerTag    INFO     tagDouble Update Value: 17.0
+2015-07-21 21:35:07,541 loggerTag    INFO     tagDouble Update Value: 18.0
+2015-07-21 21:35:07,541 loggerTag    INFO     tagDouble Update Value: 18.0
+2015-07-21 21:35:09,027 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 21:35:09,027 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 21:35:09,229 loggerTag    INFO     tagDouble Update Value: 30.0
+2015-07-21 21:35:09,229 loggerTag    INFO     tagDouble Update Value: 30.0

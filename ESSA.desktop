@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=ESSA
+Comment=Embeddable Scada System for Small Apllication
+Exec= kdesudo python /home/scholl/Dropbox/Spyder/essa/runESSA.py
+Path=/home/user/Desktop/
+Icon=/home/scholl/Dropbox/Spyder/essa/aware/scada_icon.png
+Terminal=False
+Type=Application
+Categories=Utility;Application;

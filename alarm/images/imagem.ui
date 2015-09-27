@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>307</width>
+    <height>296</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="KPixmapRegionSelectorWidget" name="kpixmapregionselectorwidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>10</y>
+     <width>281</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="imagem.qrc">:/images/alert.png</pixmap>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>KPixmapRegionSelectorWidget</class>
+   <extends>QWidget</extends>
+   <header>kpixmapregionselectorwidget.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="imagem.qrc"/>
+ </resources>
+ <connections/>
+</ui>

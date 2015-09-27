@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>836</width>
+    <height>506</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="OnOffButton" name="onOffButton_3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>253</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>OnOffButton Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA OnOffButton</string>
+    </property>
+    <property name="TextTrue">
+     <string/>
+    </property>
+    <property name="TextFalse">
+     <string/>
+    </property>
+    <property name="PathImageTrue" stdset="0">
+     <string>/home/scholl/Dropbox/Spyder/essa/images/opened-2.png</string>
+    </property>
+    <property name="PathImageFalse" stdset="0">
+     <string>/home/scholl/Dropbox/Spyder/essa/images/closed-2.png</string>
+    </property>
+   </widget>
+   <widget class="Display" name="display">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>10</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>21</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string>Display Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Display SCADA</string>
+    </property>
+    <property name="text">
+     <string>Sala Limpa</string>
+    </property>
+   </widget>
+   <widget class="Led" name="led_3">
+    <property name="geometry">
+     <rect>
+      <x>101</x>
+      <y>370</y>
+      <width>91</width>
+      <height>88</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Led Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Led SCADA</string>
+    </property>
+   </widget>
+   <widget class="OnOffButton" name="onOffButton_4">
+    <property name="geometry">
+     <rect>
+      <x>289</x>
+      <y>60</y>
+      <width>253</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>OnOffButton Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA OnOffButton</string>
+    </property>
+    <property name="TextTrue">
+     <string/>
+    </property>
+    <property name="TextFalse">
+     <string/>
+    </property>
+    <property name="PathImageTrue" stdset="0">
+     <string>/home/scholl/Dropbox/Spyder/essa/images/opened-2.png</string>
+    </property>
+    <property name="PathImageFalse" stdset="0">
+     <string>/home/scholl/Dropbox/Spyder/essa/images/closed-2.png</string>
+    </property>
+   </widget>
+   <widget class="Led" name="led_4">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>370</y>
+      <width>91</width>
+      <height>88</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Led Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Led SCADA</string>
+    </property>
+   </widget>
+   <widget class="OnOffButton" name="onOffButton_5">
+    <property name="geometry">
+     <rect>
+      <x>559</x>
+      <y>60</y>
+      <width>253</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>OnOffButton Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA OnOffButton</string>
+    </property>
+    <property name="TextTrue">
+     <string/>
+    </property>
+    <property name="TextFalse">
+     <string/>
+    </property>
+    <property name="PathImageTrue" stdset="0">
+     <string>/home/scholl/Dropbox/Spyder/essa/images/opened-2.png</string>
+    </property>
+    <property name="PathImageFalse" stdset="0">
+     <string>/home/scholl/Dropbox/Spyder/essa/images/closed-2.png</string>
+    </property>
+   </widget>
+   <widget class="Led" name="led_5">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>370</y>
+      <width>91</width>
+      <height>88</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Led Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Led SCADA</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>836</width>
+     <height>29</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Display</class>
+   <extends>QLabel</extends>
+   <header>display</header>
+  </customwidget>
+  <customwidget>
+   <class>Led</class>
+   <extends>QWidget</extends>
+   <header>led</header>
+  </customwidget>
+  <customwidget>
+   <class>OnOffButton</class>
+   <extends>QPushButton</extends>
+   <header>onOfButton</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

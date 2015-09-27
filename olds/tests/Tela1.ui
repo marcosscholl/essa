@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>654</width>
+    <height>540</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="Display" name="display">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>30</y>
+      <width>71</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Display Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Display SCADA</string>
+    </property>
+    <property name="StartText" stdset="0">
+     <string/>
+    </property>
+    <property name="StaticText" stdset="0">
+     <string>Simulação Supervisório</string>
+    </property>
+    <property name="DisplayVisible" stdset="0">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="Thermo" name="thermo">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>90</y>
+      <width>93</width>
+      <height>401</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Thermo Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Thermo</string>
+    </property>
+	<property name="Value" stdset="0">
+     <number>0</number>
+    </property>
+    <property name="MinimumValue" stdset="0">
+     <number>0</number>
+    </property>
+    <property name="MaximumValue" stdset="0">
+     <number>100</number>
+    </property>
+    <property name="AlarmLevel" stdset="0">
+     <number>80</number>
+    </property>
+    <property name="DisplayVisible" stdset="0">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="DisplayLCD" name="displayLCD">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>240</y>
+      <width>81</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>DisplayLCD Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>DisplayLCD SCADA</string>
+    </property>
+    <property name="Value" stdset="0">
+     <number>0</number>
+    </property>
+   </widget>
+   <widget class="Led" name="led">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>120</y>
+      <width>88</width>
+      <height>88</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Led Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Led SCADA</string>
+    </property>
+    <property name="Value" stdset="0">
+     <string>BLUE</string>
+    </property>
+    <property name="MinimumSizeX" stdset="0">
+     <number>50</number>
+    </property>
+    <property name="MinimumSizeY" stdset="0">
+     <number>50</number>
+    </property>
+    <property name="MaximumSizeX" stdset="0">
+     <number>50</number>
+    </property>
+    <property name="MaximumSizey" stdset="0">
+     <number>50</number>
+    </property>
+   </widget>
+   <widget class="Display" name="display_2">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>300</y>
+      <width>40</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Display Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Display SCADA</string>
+    </property>
+    <property name="StartText" stdset="0">
+     <string/>
+    </property>
+    <property name="StaticText" stdset="0">
+     <string>Temperatura Caldeira</string>
+    </property>
+    <property name="DisplayVisible" stdset="0">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="Dial_2" name="dial_2Widget">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>80</y>
+      <width>196</width>
+      <height>196</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Dial Widget 2</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Dial 2</string>
+    </property>
+    <property name="Value" stdset="0">
+     <number>50</number>
+    </property>
+    <property name="MinimumRange" stdset="0">
+     <number>0</number>
+    </property>
+    <property name="MaximumRange" stdset="0">
+     <number>100</number>
+    </property>
+    <property name="MinimumScale" stdset="0">
+     <number>0</number>
+    </property>
+    <property name="MaximumScale" stdset="0">
+     <number>3</number>
+    </property>
+    <property name="StepScale" stdset="0">
+     <number>5</number>
+    </property>
+   </widget>
+   <widget class="Dial_3" name="dial_3Widget">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>280</y>
+      <width>191</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Dial Widget 3</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Dial 3</string>
+    </property>
+    <property name="Value" stdset="0">
+     <number>75</number>
+    </property>
+    <property name="MinimumRange" stdset="0">
+     <number>0</number>
+    </property>
+    <property name="MaximumRange" stdset="0">
+     <number>100</number>
+    </property>
+    <property name="MinimumScale" stdset="0">
+     <number>0</number>
+    </property>
+    <property name="MaximumScale" stdset="0">
+     <number>3</number>
+    </property>
+    <property name="StepScale" stdset="0">
+     <number>5</number>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>654</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Dial_2</class>
+   <extends>QwtDial</extends>
+   <header>dial_2</header>
+  </customwidget>
+  <customwidget>
+   <class>Dial_3</class>
+   <extends>QwtDial</extends>
+   <header>dial_3</header>
+  </customwidget>
+  <customwidget>
+   <class>Display</class>
+   <extends>QLabel</extends>
+   <header>display</header>
+  </customwidget>
+  <customwidget>
+   <class>DisplayLCD</class>
+   <extends>QLCDNumber</extends>
+   <header>lcd</header>
+  </customwidget>
+  <customwidget>
+   <class>Led</class>
+   <extends>QWidget</extends>
+   <header>led</header>
+  </customwidget>
+  <customwidget>
+   <class>Thermo</class>
+   <extends>QWidget</extends>
+   <header>thermo</header>
+  </customwidget>
+  <customwidget>
+   <class>QwtDial</class>
+   <extends>QWidget</extends>
+   <header>qwt_dial.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

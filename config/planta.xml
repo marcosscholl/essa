@@ -1,0 +1,166 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="planta.ui"> </window>
+	<scan>0.5</scan>
+	<comunications>
+		<comm type="Modbus">
+			<name>commModbus</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>19200</baudrate>
+			<address>1</address>
+			<bytesize>8</bytesize>
+		</comm>
+	</comunications>
+	<tags>
+		<tag name="tagProvider" id="1">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=1)</provider>
+		</tag>
+
+		<tag name="tagLiTq1" id="1">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ModbusLink(name="tagLiTq1",board=commModbus, register=7, type="register")</provider>
+		</tag>
+		<tag name="tagLiTq2" id="2">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ModbusLink(name="tagLiTq2",board=commModbus, register=8, type="register")</provider>
+		</tag>
+		<tag name="tagLiTq3" id="3">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ModbusLink(name="tagLiTq3",board=commModbus, register=9, type="register")</provider>
+		</tag>
+		<tag name="tagLiTq4" id="4">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ModbusLink(name="tagLiTq4",board=commModbus, register=10, type="register")</provider>
+		</tag>
+		<tag name="tagState" id="5">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ModbusLink(name="tagState",board=commModbus, register=0, type="register")</provider>
+		</tag>
+
+		<tag name="tagNivel1" id="6">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ModbusLink(name="tagNivel1",board=commModbus, register=1, type="register")</provider>
+		</tag>
+		<tag name="tagNivel2" id="7">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ModbusLink(name="tagNivel2",board=commModbus, register=2, type="register")</provider>
+		</tag>
+		<tag name="tagNivel3" id="8">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ModbusLink(name="tagNivel3",board=commModbus, register=3, type="register")</provider>
+		</tag>
+		<tag name="tagNivel4" id="9">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ModbusLink(name="tagNivel4",board=commModbus, register=4, type="register")</provider>
+		</tag>
+	</tags>
+	<adapters>
+	    <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>onOffButton</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagState</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    <!-- Passando os Niveis -->
+	    <adapter type="AdapterContinuous" name="Adapter02" id="1">
+			<startValue>1</startValue>
+			<widget>dsb1</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagNivel1</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter03" id="1">
+			<startValue>1</startValue>
+			<widget>dsb2</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagNivel2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter04" id="1">
+			<startValue>1</startValue>
+			<widget>dsb3</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagNivel3</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+
+	    <!-- Lendo o os Niveis -->
+	    <adapter type="AdapterContinuous" name="Adapter05" id="1">
+			<startValue>1</startValue>
+			<widget>tanque1</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagLiTq1</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter06" id="1">
+			<startValue>1</startValue>
+			<widget>tanque2</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagLiTq2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter07" id="1">
+			<startValue>1</startValue>
+			<widget>tanque3</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagLiTq3</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter08" id="1">
+			<startValue>1</startValue>
+			<widget>tanque4</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagLiTq4</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter09" id="1">
+			<startValue>1</startValue>
+			<widget>tanqueResiduo</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagProvider</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+  </adapters>
+</essa>

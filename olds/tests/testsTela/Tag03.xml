@@ -1,0 +1,23 @@
+<scada class="tags" name="tags">
+	<tags>
+		<tag>
+			<name>tagGeradora</name>
+			<id>1</id>
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.3</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=1000,step=10)</provider>
+		</tag>
+		<tag>
+			<name>tagGeradora2</name>
+			<id>2</id>
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.5</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=10)</provider>
+		</tag>
+	</tags>
+	
+</scada>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>269</width>
+    <height>526</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="Dial_3" name="dial_3Widget_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>250</y>
+     <width>234</width>
+     <height>234</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>Dial Widget 3</string>
+   </property>
+   <property name="whatsThis">
+    <string>SCADA Dial 3</string>
+   </property>
+   <property name="MaxValue">
+    <number>1000</number>
+   </property>
+   <property name="StepScale" stdset="0">
+    <number>50</number>
+   </property>
+  </widget>
+  <widget class="Dial_3" name="dial_3Widget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>234</width>
+     <height>234</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>Dial Widget 3</string>
+   </property>
+   <property name="whatsThis">
+    <string>SCADA Dial 3</string>
+   </property>
+   <property name="MaxValue">
+    <number>1000</number>
+   </property>
+   <property name="StepScale" stdset="0">
+    <number>50</number>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Dial_3</class>
+   <extends>QwtDial</extends>
+   <header>dial_3</header>
+  </customwidget>
+  <customwidget>
+   <class>QwtDial</class>
+   <extends>QWidget</extends>
+   <header>qwt_dial.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

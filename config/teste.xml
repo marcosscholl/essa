@@ -1,0 +1,44 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="teste.ui"> </window>
+	<scan>0.1</scan>
+	<comunications>
+	</comunications>
+	<tags>
+		<tag name="tagDouble" id="1">
+			<startValue>10</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+		</tag>
+	</tags>
+	<adapters>
+		<!-- Lendo o os Niveis -->
+	    <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>doubleSpinBox</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagDouble</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    <!-- Lendo o os Niveis -->
+	    <adapter type="AdapterContinuous" name="Adapter02" id="1">
+			<startValue>1</startValue>
+			<widget>dial_Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagDouble</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter03" id="1">
+			<startValue>1</startValue>
+			<widget>display</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagDouble</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+  </adapters>
+</essa>

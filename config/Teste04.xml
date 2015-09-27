@@ -1,0 +1,79 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="Teste04.ui"> </window>
+	<scan>0.1</scan>
+	<comunications>
+		<comm type="Modbus">
+			<name>commModbus</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+			<address>1</address>
+			<bytesize>8</bytesize>
+		</comm>
+	</comunications>
+	<tags>
+		<tag name="tagSlider" id="1">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<script>if value >= 200: value=0</script>
+		</tag>
+		<tag name="tagLed" id="2">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ModbusLink(name="LedValor",board=commModbus, register=1, type="register")</provider>
+		</tag>
+		<tag name="tagPlot" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ModbusLink(name="LedValor",board=commModbus, register=1, type="register")</provider>
+		</tag>
+		<tag name="tagBotao" id="4">
+			<startValue>1</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ModbusLink(name="Botao",board=commModbus, register=0, type="register")</provider>
+		</tag>
+	</tags>
+	<adapters>
+	    <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>slider</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSlider</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter02" id="2">
+			<startValue>1</startValue>
+			<widget>tagLed</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSlider</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>4</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter03" id="3">
+			<startValue>1</startValue>
+			<widget>plot</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagPlot</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter04" id="4">
+			<startValue>1</startValue>
+			<widget>onOffButton</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagBotao</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>3</direction>
+	    </adapter>
+  </adapters>
+</essa>

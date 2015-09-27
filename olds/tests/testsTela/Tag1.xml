@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scada class="tags" name="tags">
+	<tag>
+		<property name="name" stdset="0">
+	     	<string>tagGeradora</string>
+	    </property>
+		<property name="id" stdset="0">
+			<number>0</number>
+		</property>
+		<property name="startValue" stdset="0">
+			<number>0</number>
+		</property>
+		<property name="readOnly" stdset="0">
+			<bool>False</bool>
+		</property>
+		<property name="scan" stdset="0">
+			<number>0.3</number>
+		</property>
+		<property name="providerEnable" stdset="0">
+			<bool>True</bool>
+		</property>
+		<property name="provider" stdset="0">
+			<string>SequenceGenerator(1,min=0,max=1000,step=10)</string>
+		</property>
+	</tag>
+	<tag>
+		<property name="name" stdset="0">
+	     	<string>tagGeradora2</string>
+	    </property>
+		<property name="id" stdset="0">
+			<number>0</number>
+		</property>
+		<property name="startValue" stdset="0">
+			<number>0</number>
+		</property>
+		<property name="readOnly" stdset="0">
+			<bool>False</bool>
+		</property>
+		<property name="scan" stdset="0">
+			<number>0.7</number>
+		</property>
+		<property name="providerEnable" stdset="0">
+			<bool>True</bool>
+		</property>
+		<property name="provider" stdset="0">
+			<string>SequenceGenerator(1,min=0,max=1000,step=1)</string>
+		</property>
+	</tag>
+</scada>

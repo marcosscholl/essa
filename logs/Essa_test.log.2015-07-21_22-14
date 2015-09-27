@@ -1,0 +1,1185 @@
+2015-07-21 21:52:34,263 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:52:50,366 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:52:50,368 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,368 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,369 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,369 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,369 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,370 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,371 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,372 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,373 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:52:50,374 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,073 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:53:30,075 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,075 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,075 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,075 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,075 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,076 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,077 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,078 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,079 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:30,080 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,061 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 21:53:49,063 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,063 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,063 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,063 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,063 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,065 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,066 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,066 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,066 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,066 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,066 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,066 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,067 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,068 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,069 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:53:49,070 loggerTag    INFO     New Tag | Name:tagLiTq5 Id:10 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 21:58:05,045 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:00:35,648 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:00:35,649 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,649 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,650 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,651 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,652 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:35,653 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:39,993 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:49,919 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:51,723 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:00:52,416 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:02,564 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:03,375 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:05,430 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:06,587 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:01:37,857 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:01:37,859 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,859 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,860 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,861 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,862 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:37,863 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:01:44,213 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:13,551 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:04:13,553 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,553 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,553 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,553 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,553 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,554 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,555 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:13,556 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:16,204 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:27,173 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,138 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:28,789 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,244 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:29,684 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,007 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,297 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:30,514 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:32,766 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,075 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,556 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:33,847 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,181 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:34,614 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:50,686 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:04:50,688 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,688 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,688 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,688 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,688 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,689 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,690 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,691 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:50,692 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:04:53,253 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:00,500 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,655 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:01,962 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,320 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,577 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:02,815 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,068 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,249 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:03,565 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,004 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,617 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:04,918 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,776 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:05,891 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:05:06,728 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:43,161 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:08:43,188 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,188 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,189 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,190 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,190 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,190 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,190 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,190 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,191 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,191 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,191 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,191 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,191 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,191 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,192 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,193 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:43,194 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:45,883 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,107 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:08:49,600 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:09:10,699 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:09:10,701 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,701 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,701 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,701 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,701 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,702 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,703 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,704 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:10,705 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,029 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:09:39,030 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,030 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,031 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,032 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,033 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,034 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:09:39,035 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,599 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:10:09,601 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,601 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,602 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,603 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,604 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:09,605 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:12,291 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:18,094 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,142 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,639 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:19,931 loggerTag    INFO     tagState Update Value: True
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:10:20,155 loggerTag    INFO     tagState Update Value: False
+2015-07-21 22:14:47,546 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel1 Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel2 Id:2 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,548 loggerTag    INFO     New Tag | Name:tagNivel3 Id:3 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagNivel4 Id:4 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagState Id:5 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,549 loggerTag    INFO     New Tag | Name:tagLiTq1 Id:6 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq2 Id:7 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,550 loggerTag    INFO     New Tag | Name:tagLiTq3 Id:8 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1
+2015-07-21 22:14:47,551 loggerTag    INFO     New Tag | Name:tagLiTq4 Id:9 | Enable:True | ReadyOnly:True | ProviderEnable:True | Scan:0.1

@@ -1,0 +1,33 @@
+<tag name="tagModbus" id="3">
+		<startValue>0</startValue>
+		<readOnly>False</readOnly>
+		<scan>100</scan>
+		<providerEnable>True</providerEnable>
+		<provider>ModbusLink(name="linkValue",board=com2, register=1, type="bit")</provider>
+	</tag>
+</tags>
+<adapters>
+    <adapter type="AdapterContinuous" name="AdapterScale" id="3">
+		<startValue>0</startValue>
+		<widget>dial_Widget</widget>
+		<widgetProprierty>value</widgetProprierty>
+		<tag>tagModbus</tag>
+		<tagProprierty>value</tagProprierty>
+		<direction>1</direction>
+		<scale>
+			<minimum>0</minimum>
+			<maximum>100</maximum>
+			<newMinimum>0</newMinimum>
+			<newMaximum>1000</newMaximum>
+		</scale>
+    </adapter>
+</adapters>
+<alarms>
+		<alarm name="Alarm1" id="1">
+	        <tags>tagModbus</tags>
+	        <type>maxmax</type>
+	        <value>80</value>
+	        <lifeGui>15</lifeGui>
+		</alarm>
+</alarms>
+</essa>

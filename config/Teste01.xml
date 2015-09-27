@@ -1,0 +1,32 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="Teste01.ui"> </window>
+	<scan>0.1</scan>
+	<comunications>
+		<comm type="Arduino">
+			<name>commArduino</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+		</comm>
+	</comunications>
+	<tags>
+		<tag name="tagLed" id="1">
+			<startValue>0</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ArduinoLink(board=commArduino,pin="d:9:p")</provider>
+		</tag>
+	</tags>
+	<adapters>
+	    <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>onOffButton</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagLed</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>3</direction>
+	    </adapter>
+  </adapters>
+</essa>

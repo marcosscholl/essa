@@ -1,0 +1,55 @@
+<essa>
+	<install path="C:\Users\MarcosScholl\Dropbox\Spyder"></install>
+	<logs path="C:\Users\MarcosScholl\Dropbox\Spyder\essa\logs\"></logs>
+	<window name="Teste06.ui"> </window>
+	<scan>0.1</scan>
+	<tags>
+		<tag name="TagSequence" id="1">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=10)</provider>
+		</tag>
+		<tag name="tagSine" id="2">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SineGenerator(1,min=-1.0,max=1.0,step=10.0)</provider>
+		</tag>
+		<tag name="tagSaw" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SawToothGenerator(1,min=0,max=1,step=1,interval=1)</provider>
+		</tag>
+	</tags>
+	<adapters>
+		 <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>plot</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagSequence</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter02" id="2">
+			<startValue>1</startValue>
+			<widget>plot_2</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSine</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter03" id="3">
+			<startValue>1</startValue>
+			<widget>plot_3</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSaw</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+  </adapters>
+</essa>

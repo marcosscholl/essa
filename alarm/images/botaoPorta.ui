@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>614</width>
+    <height>486</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="OnOffButton" name="onOffButton">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>100</y>
+     <width>321</width>
+     <height>351</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>OnOffButton Widget</string>
+   </property>
+   <property name="whatsThis">
+    <string>SCADA OnOffButton</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <selectedoff>:/closed.png</selectedoff>
+     <selectedon>:/opened.png</selectedon>
+    </iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>350</width>
+     <height>350</height>
+    </size>
+   </property>
+   <property name="autoDefault">
+    <bool>false</bool>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>OnOffButton</class>
+   <extends>QPushButton</extends>
+   <header>onOfButton</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="door.qrc"/>
+ </resources>
+ <connections/>
+</ui>

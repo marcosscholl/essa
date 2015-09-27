@@ -1,0 +1,30 @@
+2015-07-21 22:20:21,799 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2
+2015-07-21 22:20:21,800 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:20:21,800 loggerTag    INFO     New Tag | Name:tagDouble Id:1 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:0.1
+2015-07-21 22:20:24,714 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 22:20:24,714 loggerTag    INFO     tagDouble Update Value: 0.0
+2015-07-21 22:20:26,257 loggerTag    INFO     tagDouble Update Value: 1.0
+2015-07-21 22:20:26,257 loggerTag    INFO     tagDouble Update Value: 1.0
+2015-07-21 22:20:26,416 loggerTag    INFO     tagDouble Update Value: 2.0
+2015-07-21 22:20:26,416 loggerTag    INFO     tagDouble Update Value: 2.0
+2015-07-21 22:20:26,585 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 22:20:26,585 loggerTag    INFO     tagDouble Update Value: 3.0
+2015-07-21 22:20:26,863 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 22:20:26,863 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 22:20:26,984 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 22:20:26,984 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 22:20:27,112 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 22:20:27,112 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 22:20:27,248 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 22:20:27,248 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 22:20:27,369 loggerTag    INFO     tagDouble Update Value: 8.0
+2015-07-21 22:20:27,369 loggerTag    INFO     tagDouble Update Value: 8.0
+2015-07-21 22:20:29,162 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 22:20:29,162 loggerTag    INFO     tagDouble Update Value: 7.0
+2015-07-21 22:20:29,312 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 22:20:29,312 loggerTag    INFO     tagDouble Update Value: 6.0
+2015-07-21 22:20:29,448 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 22:20:29,448 loggerTag    INFO     tagDouble Update Value: 5.0
+2015-07-21 22:20:29,720 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 22:20:29,720 loggerTag    INFO     tagDouble Update Value: 4.0
+2015-07-21 22:24:20,608 loggerTag    INFO     New Tag | Name:Tag Led Warning of Window Id:-15 | Enable:True | ReadyOnly:True | ProviderEnable:False | Scan:2

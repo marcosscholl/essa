@@ -1,0 +1,111 @@
+<scada>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="seisWidget.ui"> </window>
+	<scan>0.1</scan>
+	<comunications>
+		<comm type="Modbus">
+			<name>commModbus</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+			<address>1</address>
+			<bytesize></bytesize>
+			<parity></parity>
+			<stopbits></stopbits>
+			<timeout></timeout>
+			<mode></mode>
+		</comm>
+		<comm type="Arduino">
+			<name>commArduino</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+		</comm>
+	</comunications>
+	<tags>
+		<tag>
+			<name>tagGeradora</name>
+			<id>1</id>
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.3</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=1000,step=10)</provider>
+		</tag>
+		<tag>
+			<name>tagGeradora2</name>
+			<id>2</id>
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.5</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=10)</provider>
+		</tag>
+	</tags>
+	<adapters>
+	    <adapter type="AdapterRange">
+			<name>Adapter01</name>
+			<id>1</id>
+			<startValue>0</startValue>
+			<widget>thermo</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora1</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>0</direction>
+			<limits>
+				<minimum>20</minimum>
+				<average>40</average>
+				<maximum>60</maximum>
+				<limit>100</limit>
+			</limits>
+			<condition>{"Cond1":"Emergency","Cond2":"Normal"}</condition>
+	    </adapter>
+	    <adapter type="AdapterContinuous">
+			<name>Adapter02</name>
+			<id>2</id>
+			<startValue>0</startValue>
+			<widget>thermo2</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>0</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous">
+			<name>Adapter03</name>
+			<id>3</id>
+			<startValue>0</startValue>
+			<widget>thermo3</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora3</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>0</direction>
+			<scale>
+				<minimum>0</minimum>
+				<maximum>100</maximum>
+				<newMinimum>0</newMinimum>
+				<newMaximum>1000</newMaximum>
+			</scale>
+	    </adapter>
+		<adapter type="AdapterDiscret">
+			<name>Adapter04</name>
+			<id>4</id>
+			<startValue>0</startValue>
+			<widget>thermo4</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>0</direction>
+			<valueTrue>Sim</valueTrue>
+			<valueFalse>Não</valueFalse>
+		</adapter>
+  </adapters>
+  <alarms>
+  		<alarm>
+            <name>Alarme1</name>
+            <id>1</id>
+            <tags>Tag01,Tag02</tags>
+            <type>maxmax</type>
+            <value>80</value>
+            <lifeGui>15</lifeGui>
+  		</alarm>
+  </alarms>
+</scada>

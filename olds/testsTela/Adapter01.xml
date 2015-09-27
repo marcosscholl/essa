@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scada class="adapters" name="adapters">
+  <adapter type="AdapterContinuous">
+    <property name="name" stdset="0">
+      <string>adapter01</string>
+    </property>
+    <property name="id" stdset="0">
+      <number>0</number>
+    </property>
+    <property name="startValue" stdset="0">
+      <number>0</number>
+    </property>
+    <property name="widget" stdset="0">
+      <string>dial_3Widget</string>
+    </property>
+    <property name="widgetProprierty" stdset="0">
+      <string>value</string>
+    </property>
+    <property name="tag" stdset="0">
+      <string>tagGeradora</string>
+    </property>
+    <property name="tagProprierty" stdset="0">
+      <string>value</string>
+    </property>
+    <property name="direction" stdset="0">
+      <number>0</number>
+    </property>
+  </adapter>
+  <adapter type="AdapterContinuous">
+    <property name="name" stdset="0">
+      <string>adapter02</string>
+    </property>
+    <property name="id" stdset="0">
+      <number>0</number>
+    </property>
+    <property name="startValue" stdset="0">
+      <number>0</number>
+    </property>
+    <property name="widget" stdset="0">
+      <string>dial_3Widget_2</string>
+    </property>
+    <property name="widgetProprierty" stdset="0">
+      <string>value</string>
+    </property>
+    <property name="tag" stdset="0">
+      <string>tagGeradora</string>
+    </property>
+    <property name="tagProprierty" stdset="0">
+      <string>value</string>
+    </property>
+    <property name="direction" stdset="0">
+      <number>0</number>
+    </property>
+  </adapter>
+</scada>

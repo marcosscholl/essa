@@ -1,0 +1,173 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="Teste05.ui"> </window>
+	<scan>0.1</scan>
+	<comunications>
+		<comm type="Arduino">
+			<name>commArduino</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+		</comm>
+	</comunications>
+	<tags>
+		<tag name="tagGrafico" id="1">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SineGenerator(1,min=-1,max=1,step=10)</provider>
+		</tag>
+		<tag name="tagPotenciometro" id="2">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>ArduinoLink(board=commArduino,pin="a:0:i")</provider>
+		</tag>
+		<tag name="tagRPM" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=3000,step=10)</provider>
+		</tag>
+		<tag name="tagSlider" id="4">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+		</tag>
+		<tag name="tagLed" id="5">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+			<provider>ArduinoLink(board=commArduino,pin="d:9:p")</provider>
+		</tag>
+		<tag name="tagBotao" id="6">
+			<startValue>1</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+		</tag>
+		<tag name="tagAux" id="7">
+			<startValue>1</startValue>
+			<readOnly>True</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>False</providerEnable>
+		</tag>
+	</tags>
+	<adapters>
+		 <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>plot</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGrafico</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter02" id="2">
+			<startValue>1</startValue>
+			<widget>thermometer</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagPotenciometro</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+			<scale>
+				<minimum>0.0</minimum>
+				<maximum>1.0</maximum>
+				<newMinimum>0</newMinimum>
+				<newMaximum>100</newMaximum>
+			</scale>
+	    </adapter>
+	   
+	    <adapter type="AdapterContinuous" name="Adapter03" id="2">
+			<startValue>1</startValue>
+			<widget>dial_Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSlider</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter04" id="2">
+			<startValue>1</startValue>
+			<widget>displayLCD</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagPotenciometro</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+			<scale>
+				<minimum>0.0</minimum>
+				<maximum>1.0</maximum>
+				<newMinimum>0</newMinimum>
+				<newMaximum>100</newMaximum>
+			</scale>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter05" id="3">
+			<startValue>1</startValue>
+			<widget>dial_3Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagRPM</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter06" id="4">
+			<startValue>1</startValue>
+			<widget>slider</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSlider</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    
+	    <adapter type="AdapterContinuous" name="Adapter07" id="6">
+			<startValue>1</startValue>
+			<widget>onOffButton</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagBotao</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>2</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter08" id="7">
+			<startValue>1</startValue>
+			<widget>tagLed</widget>
+			<widgetProprierty>state</widgetProprierty>
+			<tag>tagBotao</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	     <adapter type="AdapterContinuous" name="Adapter09" id="2">
+			<startValue>1</startValue>
+			<widget>tagAux</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagSlider</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+			<scale>
+				<minimum>0</minimum>
+				<maximum>255</maximum>
+				<newMinimum>0.0</newMinimum>
+				<newMaximum>1.0</newMaximum>
+			</scale>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter10" id="5">
+			<startValue>1</startValue>
+			<widget>tagAux</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagLed</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>3</direction>
+	    </adapter>
+  </adapters>
+  <alarms>
+  		<alarm>
+            <name>Alarme1</name>
+            <id>1</id>
+            <tags>tagSlider</tags>
+            <type>maxmax</type>
+            <value>200</value>
+            <lifeGui>15</lifeGui>
+  		</alarm>
+  </alarms>
+</essa>

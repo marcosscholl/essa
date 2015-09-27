@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>530</width>
+    <height>432</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="OnOffButton" name="onOffButton">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>40</y>
+     <width>253</width>
+     <height>300</height>
+    </rect>
+   </property>
+   <property name="toolTip">
+    <string>OnOffButton Widget</string>
+   </property>
+   <property name="whatsThis">
+    <string>SCADA OnOffButton</string>
+   </property>
+   <property name="PathImageTrue" stdset="0">
+    <string>/home/scholl/Dropbox/Spyder/essa/images/opened-2.png</string>
+   </property>
+   <property name="PathImageFalse" stdset="0">
+    <string>/home/scholl/Dropbox/Spyder/essa/images/closed-2.png</string>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>OnOffButton</class>
+   <extends>QPushButton</extends>
+   <header>onOfButton</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

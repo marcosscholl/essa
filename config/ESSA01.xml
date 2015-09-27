@@ -1,0 +1,115 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="system2.ui"> </window>
+	<scan>0.1</scan>
+	<comunications>
+		<comm type="Modbus">
+			<name>commModbus</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+			<address>1</address>
+			<bytesize></bytesize>
+			<parity></parity>
+			<stopbits></stopbits>
+			<timeout></timeout>
+			<mode></mode>
+		</comm>
+		<comm type="Arduino">
+			<name>commArduino</name>
+			<port>/dev/ttyACM0</port>
+			<baudrate>9600</baudrate>
+		</comm>
+	</comunications>
+	<tags>
+		<tag name="tagGeradora" id="1">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.3</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=1000,step=10)</provider>
+			<script>if value >= 800: value = 0</script>
+		</tag>
+		<tag name="tagGeradora2" id="2">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=5)</provider>
+		</tag>
+	</tags>
+	<adapters>
+	    <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>0</startValue>
+			<widget>displayLCD</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter02" id="2">
+			<startValue>0</startValue>
+			<widget>thermo</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter03" id="3">
+			<startValue>0</startValue>
+			<widget>thermometer</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter04" id="4">
+			<startValue>0</startValue>
+			<widget>dial_1Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter05" id="5">
+			<startValue>0</startValue>
+			<widget>dial_Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter06" id="6">
+			<startValue>0</startValue>
+			<widget>dial_3Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+	    <adapter type="AdapterContinuous" name="Adapter07" id="7">
+			<startValue>0</startValue>
+			<widget>dial_2Widget</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGeradora2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+			<scale>
+				<minimum>0</minimum>
+				<maximum>100</maximum>
+				<newMinimum>0</newMinimum>
+				<newMaximum>1000</newMaximum>
+			</scale>
+	    </adapter>
+  </adapters>
+  <alarms>
+  		<alarm>
+            <name>Alarme1</name>
+            <id>1</id>
+            <tags>tagGeradora2</tags>
+            <type>maxmax</type>
+            <value>80</value>
+            <lifeGui>15</lifeGui>
+  		</alarm>
+  </alarms>
+</essa>

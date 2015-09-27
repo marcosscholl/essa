@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ESSA - Embeddable SCADA for Small Applications</string>
+  </property>
+  <property name="toolButtonStyle">
+   <enum>Qt::ToolButtonIconOnly</enum>
+  </property>
+  <property name="animated">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuSystem">
+    <property name="title">
+     <string>System</string>
+    </property>
+    <addaction name="actionRun"/>
+    <addaction name="actionStop"/>
+    <addaction name="separator"/>
+    <addaction name="actionCompile_and_Run"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menuLogs">
+    <property name="title">
+     <string>Logs</string>
+    </property>
+    <addaction name="actionAlarm_Log"/>
+    <addaction name="actionSystem_Logs"/>
+   </widget>
+   <widget class="QMenu" name="menuConfig">
+    <property name="title">
+     <string>Config</string>
+    </property>
+    <addaction name="actionESSA_Config"/>
+   </widget>
+   <addaction name="menuSystem"/>
+   <addaction name="menuLogs"/>
+   <addaction name="menuConfig"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionRun">
+   <property name="text">
+    <string>Run</string>
+   </property>
+  </action>
+  <action name="actionStop">
+   <property name="text">
+    <string>Stop</string>
+   </property>
+  </action>
+  <action name="actionAlarm_Log">
+   <property name="text">
+    <string>Alarm Log</string>
+   </property>
+  </action>
+  <action name="actionSystem_Logs">
+   <property name="text">
+    <string>System Logs</string>
+   </property>
+  </action>
+  <action name="actionESSA_Config">
+   <property name="text">
+    <string>ESSA Config</string>
+   </property>
+  </action>
+  <action name="actionCompile_and_Run">
+   <property name="text">
+    <string>Compile and Run</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -300,9 +300,13 @@ Classe que instancia um alarme vinculado a uma Tag. As propriedades a serem defi
 
 > [Alarm] 
 > **[id]** Id do alarme.
+
 > **[tags]** Tags as quais ele será atribuído para supervisionar.
+
 > **[type]** Tipo de alarme em relação ao valor.
+
 > **[value]** Valor que dispara o Alarme.
+
 > **[lifeGui]** Tempo de vida da janela de Alarme.
 
 	
@@ -402,6 +406,5 @@ A IHM de supervisão criada, deve ser salva dentro do pacote {Config} do SCADA o
 
 
 
-[![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
 
 

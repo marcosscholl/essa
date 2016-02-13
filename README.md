@@ -2,7 +2,7 @@
 ====
 Embeddable SCADA for Small Applications
 ---------------------------------------
-![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12038144_1026989310686119_7888496942013770453_n.jpg?oh=3a1455914d07ba34200047bfd716b529&oe=56A3AA27)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/1.jpg)
 
 **Definições de Projeto**
 
@@ -14,7 +14,7 @@ Em relação a interface gráfica, foi adotado o Qt, por possuir muitos widgets 
 
 Componentes SCADA
 -----------------
-![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12042981_1026989294019454_5965069765745892639_n.jpg?oh=1bbe8906e600dc821d0d6a3923d0fc9d&oe=56A77674)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/2.jpg)
 A partir de pesquisas e levantamentos, componentes de aplicação SCADA foram listados. Embora existam algumas diferenças de terminologia entre produtos, classes de componentes são facilmente agrupados de acordo com a função e as características. Assim, uma aplicação típica SCADA possuis:
 
 **Tags**
@@ -61,7 +61,7 @@ A classe TAG tem a responsabilidade de armazenar dados, que podem ser originados
 ESSA - Embeddable SCADA for Small Applications
 ----------------------------------------------
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/12038045_1026989444019439_159015388958810066_n.jpg?oh=853a4d9825f6c3958884a78fa540ae2a&oe=568F6914&__gda__=1452635774_f50323d7ca3616ec9e117a6d614007d5)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/3.jpg)
 A partir desta subseção se inicia o detalhamento do software desenvolvido, que teve uma nomeoclatura de produto definido, ESSA - Embeddable SCADA for Small Applications, (SCADA Embarcado para Pequenas Aplicações, em portugues). %O escopo do presente trabalho será realizado sobre o módulo {Runtime/Main}, que é o sistema que realiza a aquisição, supervisão e controle dos dados.
 A seguir é detalhado as caracteristicas do SCADA desenvolvido. Cada sessão, não necessáriamente é um módulo do software, esses podem ser compostos por demais classes criadas.
 
@@ -270,7 +270,7 @@ No desenvolvimento da comunicação com Arduino, foi utilizado o módulo pyFirma
 ---
 **{Log}**
 
-![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12037993_1026989397352777_365538498712210614_n.jpg?oh=e7e22205c74c87f5e90140b1b202d2bf&oe=568AF684)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/4.jpg)
 Uma {Tag} é definida para ser monitorada, então a supervisão desse dado passa pelo log de dados, que é o processo de registro de eventos relevantes no sistema. A {tag} pode requerer um log constante ou a partir do momento que ela dispara um alarme. 
 Um arquivo de log armazena mensagens emitidas pelo sistema, tanto durante o funcionamento quanto em falhas que eles possam vir a ter.
 
@@ -291,14 +291,20 @@ O ESSA possui três sistemas de log:
  
  - [LogAlarm] 
  Log fixo de Alarme. Toda e qualquer registro de alarme e ciência do mesmo, aqui fica registrado de maneira fixa
- ![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12039664_1026989304019453_8723264942684334560_n.jpg?oh=487ba0205921b921b0b695abfbae3938&oe=56A0D710)
+ ![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/5.jpg)
  - [LogAlarmWarning]  		
  Um registro de alarme corrente, disponível na IHM do ESSA. Quando ocorer um alarme, ele alem de ser registrado pelo {*LogAlarm*}, ele é registrado pelo {*LogAlarmWarning*}. Esse registro causa um evento na IHM que altera a propriedade do Led de status. O usuário quando clica no Led para verificar qual evento desencadeou esse alerta, recebe o registro gerado por {*LogAlarmWarning*}, que é apagado após o usuário fechar a tela que apresenta o registro.
- ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/12037997_1026989417352775_2196380723119467240_n.jpg?oh=42135b5b7214595a3d84c1ef55f0e299&oe=569EA9BF&__gda__=1452631304_f2e7d18e0c417e5351db79b965f8448f)
+ ![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/6.jpg)
 
 Um Text Logger pode ser utilizado para gerar um gráfico.
 
 ---
+
+**{Analise}**
+
+Um  SCADA deve possuir geração de gráficos e relatórios com o histórico do processo, e esse componente existe dentro do ESSA, como um Histograma em que as Tags existentes apresentam valores de acordo com algumas caracteristicas, em que o gráfico mostre uma variação de valor nos intervalos escolhidos pelo usuário, que podem ser à cada 5, 15, 30 ou 60 minutos ou quando um valor ultrapassa a média das ultimas 4 leituras, sendo detectado como anomalía. Uma visualização do histograma de análise de dados é apresentado:  
+ ![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/10.jpg)
+
 
 **{IHM}**
 
@@ -363,7 +369,7 @@ Esse processo é executado dentro da classe {Scan}, que é uma {Thread} de varre
 
 **{Design}**
 
-![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/11959995_1026989430686107_5623449826690704935_n.jpg?oh=800289e07b7bed4f65cd066f77b281dd&oe=568ABD1A)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/7.jpg)
 Responsável por projetar e configurar a tela, IHM do supervisório. Foi desenvolvido um template, figura \ref{figTemplate}, próprio para o desenvolvimento do SCADA dentro do Qt Designer. Este template engloba botões de menu que acessam funções internas do software e também disponibiliza um componente Led de execução, em que ao ocorrer alguma notificação, altera sua cor para que o usuário operador possa visualizar o ocorrido e ficar ciente da situação. 
 
 
@@ -378,9 +384,9 @@ A IHM de supervisão criada, deve ser salva dentro do pacote {Config} do SCADA o
 
 **{Definindo uma instância do ESSA}**
 
-![](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/12046839_1026989384019445_1045175487450098637_n.jpg?oh=787e02c80f9655b24f9969e3257128a7&oe=56A60E26&__gda__=1451977984_433254e3e0801aeb7b783372ab42e320)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/8.jpg)
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/12049381_1026989440686106_5415329145441178737_n.jpg?oh=7b93bf736cc85a7ed6096b49198f9e56&oe=56A7A893&__gda__=1454008234_c2477738389ada15edefc93c95956163)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/11.jpg)
 Os modulos desenvolvidos proporcionam uma ferramenta para criação de um supervisórios SCADA, de maneira simplificada frente aos principáis sistemas disponíveis no mercados, que possuem certa complexidade de programação e inaplicabilidade em hardwares de baixo consumo. O ESSA é multiplataforma, podendo ser portado de um computador para um hardware embarcado, por exemplo. O motor de supervisão já está configurado para gerar a supervisão de Tags que seram definidas pelo usuário, necessitando que o usuário defina para o sistema, qual é a tela IHM que será utilizada, e quais as Tags e Adaptadores definidos, além de configurações opcionais, como Alarme, por exemplo.
 Duas etapas são necessárias para se gerar um supervisorio SCADA à partir do ESSA.
 
@@ -419,7 +425,7 @@ A execução do sistema depende de duas caracteristicas fundamentais. A criaçã
 
 A IHM de supervisão criada, deve ser salva dentro do pacote {Config} do SCADA onde o usuário programador também configura o arquivo de descrição XML. 
 
-![](https://scontent-gru1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12042981_1026989294019454_5965069765745892639_n.jpg?oh=1bbe8906e600dc821d0d6a3923d0fc9d&oe=56A77674)
+![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/9.jpg)
 
 
 

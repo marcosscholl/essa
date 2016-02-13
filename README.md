@@ -303,7 +303,7 @@ Um Text Logger pode ser utilizado para gerar um gráfico.
 **{Analise}**
 
 Um  SCADA deve possuir geração de gráficos e relatórios com o histórico do processo, e esse componente existe dentro do ESSA, como um Histograma em que as Tags existentes apresentam valores de acordo com algumas caracteristicas, em que o gráfico mostre uma variação de valor nos intervalos escolhidos pelo usuário, que podem ser à cada 5, 15, 30 ou 60 minutos ou quando um valor ultrapassa a média das ultimas 4 leituras, sendo detectado como anomalía. Uma visualização do histograma de análise de dados é apresentado:  
- ![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/10.jpg)
+ ![](https://raw.githubusercontent.com/marcosscholl/essa/master/sample/10.png)
 
 
 **{IHM}**

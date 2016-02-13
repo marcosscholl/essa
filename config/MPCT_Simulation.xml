@@ -1,0 +1,121 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="MPCT_Simulation.ui"> </window>
+	<scan>0.1</scan>
+	<tags>
+          <tag name="tagRPM" id="1">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SineGenerator(1,min=0,max=550,step=1)</provider>
+		</tag>
+		<tag name="tagGrafico" id="2">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SineGenerator(1,min=-1,max=1,step=10)</provider>
+		</tag>
+          <tag name="TagTemperatura" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.8</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=10)</provider>
+		</tag>
+          <tag name="TagTemperatura2" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=10)</provider>
+		</tag>
+          <tag name="TagSequence" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=100,max=1400,step=10)</provider>
+		</tag>
+          <tag name="TagSequence2" id="4">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.5</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=0,max=100,step=10)</provider>
+		</tag>
+
+	</tags>
+	<adapters>
+         <adapter type="AdapterContinuous" name="AdapterRPM" id="3">
+			<startValue>1</startValue>
+			<widget>dial1</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagRPM</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+		<adapter type="AdapterContinuous" name="AdapterGrafico" id="1">
+			<startValue>1</startValue>
+			<widget>plot</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagGrafico</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+         <adapter type="AdapterContinuous" name="AdapterTemperatura1" id="1">
+			<startValue>1</startValue>
+			<widget>thermometer</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagTemperatura</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+         <adapter type="AdapterContinuous" name="AdapterTemperatura2" id="1">
+			<startValue>1</startValue>
+			<widget>thermo</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagTemperatura2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+         
+         <adapter type="AdapterContinuous" name="AdapterSequence" id="3">
+			<startValue>1</startValue>
+			<widget>dial2</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagSequence</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+         <adapter type="AdapterContinuous" name="AdapterSequence2" id="3">
+			<startValue>1</startValue>
+			<widget>dial3</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagSequence2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+
+
+         <adapter type="AdapterContinuous" name="AdapterSequenceSpinBox" id="3">
+			<startValue>1</startValue>
+			<widget>doubleSpinBox</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagTemperatura</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+         <adapter type="AdapterContinuous" name="AdapterLCD" id="3">
+			<startValue>1</startValue>
+			<widget>displayLCD</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>TagSequence</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+  </adapters>
+
+</essa>

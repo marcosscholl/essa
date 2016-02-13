@@ -1,15 +1,9 @@
-# -*- coding: utf-8 -*-
-
-__author__ = "Marcos V. Scholl"
-__email__ = "marcos.vinicius.scholl@gmail.com"
-__version__ = "20150409-1500"
-__status__ = "stable"
-__license__ = "GPL"
-
 import sys
 from PyQt4 import Qt, QtCore, QtGui
 import PyQt4.Qwt5 as Qwt
-
+import PyQt4.Qwt5.anynumpy as np
+from PyQt4.QtCore import *
+from PyQt4.QtGui import *
 import sys, os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
@@ -45,12 +39,14 @@ class Thermo(Widget, QtGui.QWidget):
          self.thermo.setAlarmLevel(80.0)
          self.thermo.setScalePosition(Qwt.QwtThermo.LeftScale)
          self.thermo.setBorderWidth(3)
-         brush = QtGui.QBrush(QtGui.QColor(255, 0, 0))
+         brush = QtGui.QBrush(QtGui.QColor(0,170,0))
          brush.setStyle(QtCore.Qt.SolidPattern)
          self.thermo.setFillBrush(brush)
          self.thermo.setMaxValue(100.0)
          self.thermo.setPipeWidth(20)
          self.thermo.setObjectName("Thermo")
+         self.thermo.minVal = 0
+         self.thermo.maxVal = 100
                     
  
          self.lcdNumber = QtGui.QLCDNumber()
@@ -75,18 +71,16 @@ class Thermo(Widget, QtGui.QWidget):
          
          
     def getName(self):
-        return self.thermo.objectName()
+        return self.thermo.objectName
     
     def setName(self,name):
         self.thermo.setObjectName(name)
-        
     Name = QtCore.pyqtProperty(str,fget=getName,fset=setName)    
     
     def setAlarmLevel(self,value):
-        self.thermo.setAlarmLevel(value) 
-        
+        self.thermo.setAlarmLevel(value)     
     def getAlarmLevel(self):
-        return self.thermo.alarmLevel
+        return self.thermo.alarmLevel()
     AlarmLevel = QtCore.pyqtProperty(float,fget=getAlarmLevel,fset=setAlarmLevel) 
     
     def setValue(self, value):               
@@ -97,35 +91,34 @@ class Thermo(Widget, QtGui.QWidget):
         self.thermo.setValue(value)
         self.lcdNumber.display(str(value))
         
-        
             
         
     def setMinValue(self,minValue):
         self.thermo.setMinValue(minValue)
-        
+        self.thermo.minVal = minValue
         
     def getMinValue(self):
-        return self.thermo.minimumSize
+        return self.thermo.minVal
     MinimumValue = QtCore.pyqtProperty(float,fget=getMinValue,fset=setMinValue)     
         
     def setMaxValue(self,maxValue):
         self.thermo.setMaxValue(maxValue)
+        self.thermo.maxVal = maxValue
         
     def getMaxValue(self):
-        return self.thermo.maximumSize
+        return self.thermo.maxVal
     MaximumValue = QtCore.pyqtProperty(float,fget=getMaxValue,fset=setMaxValue)  
     
     def setRange(self,minValue,maxValue):
         self.thermo.setRange(minValue,maxValue)
-        
+        self.thermo.minVal = minValue
+        self.thermo.maxVal = maxValue
         
     def setThermoGeometry(self,left, top, width, height):
         self.thermo.setGeometry(QtCore.QRect(left, top, width, height))
-        
     
     def setDysplayGeometry(self,left, top, width, height):
         self.lcdNumber.setGeometry(QtCore.QRect(left, top, width, height))
-        
         
     def setFonteThermo(self,pointSize=10,bold=True):
         self.font.setPointSize(pointSize)
@@ -138,20 +131,27 @@ class Thermo(Widget, QtGui.QWidget):
         
     def setThermoFontZize(self, value):
         self.thermo.setPipeWidth(value)
+        
     @property
     def value(self):
         self.thermo.value()
     
     @value.setter
     def value(self, value):
-        self.setValue(float(value)) 
+        self._v = (float(value)) 
+        self.setValue(float(value))
         
+    def valueSetter(self,value):
+        self._v = (float(value)) 
+        self.value = (float(value)) 
         
     def getValue(self):
-        return self.thermo.value
-    Value = QtCore.pyqtProperty(float,fget=getValue,fset=setValue) 
+        return self.thermo.value()
+    
+    
+    Value = QtCore.pyqtProperty(float,fget=getValue,fset=valueSetter) 
 
-"""        
+
 if __name__ == "__main__":
 
     app = QtGui.QApplication(sys.argv)
@@ -163,6 +163,7 @@ if __name__ == "__main__":
     #window.setMinimumHeight(300)
     thermo = Thermo()
     thermo.setValue(89.98)
+    print thermo.getMaxValue
     #thermo.setLargura(80)
     #thermo.setGeometry(10,10,60,350)
     thermo.show()
@@ -171,4 +172,3 @@ if __name__ == "__main__":
     #thermo.setValue(50)
 
     sys.exit(app.exec_())
-"""

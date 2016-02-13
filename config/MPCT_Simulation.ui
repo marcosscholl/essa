@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1305</width>
+    <height>631</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ESSA - Embeddable SCADA for Small Applications</string>
+  </property>
+  <property name="toolButtonStyle">
+   <enum>Qt::ToolButtonIconOnly</enum>
+  </property>
+  <property name="animated">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="OnOffButton" name="onOffButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>220</y>
+      <width>91</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>OnOffButton Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA OnOffButton</string>
+    </property>
+   </widget>
+   <widget class="Slider" name="slider">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>480</y>
+      <width>181</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Slider Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Slider</string>
+    </property>
+   </widget>
+   <widget class="Thermometer" name="thermometer">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>90</y>
+      <width>171</width>
+      <height>611</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Thermometer Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Thermometer</string>
+    </property>
+   </widget>
+   <widget class="DisplayLCD" name="displayLCD">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>290</y>
+      <width>141</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>DisplayLCD Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>DisplayLCD SCADA</string>
+    </property>
+   </widget>
+   <widget class="Plot" name="plot">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>390</y>
+      <width>400</width>
+      <height>321</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Display Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Plot</string>
+    </property>
+   </widget>
+   <widget class="Dial_3" name="dial1">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>70</y>
+      <width>300</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Dial1</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Dial 3</string>
+    </property>
+    <property name="label">
+     <string>volts</string>
+    </property>
+    <property name="LabelFixed" stdset="0">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="Thermo" name="thermo" native="true">
+    <property name="geometry">
+     <rect>
+      <x>792</x>
+      <y>100</y>
+      <width>161</width>
+      <height>581</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Thermo Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>SCADA Thermo</string>
+    </property>
+    <property name="MaximumValue" stdset="0">
+     <double>250.000000000000000</double>
+    </property>
+   </widget>
+   <widget class="Led" name="led">
+    <property name="geometry">
+     <rect>
+      <x>1190</x>
+      <y>0</y>
+      <width>88</width>
+      <height>88</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Led Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Led SCADA</string>
+    </property>
+   </widget>
+   <widget class="Dial_1" name="dial3">
+    <property name="geometry">
+     <rect>
+      <x>960</x>
+      <y>400</y>
+      <width>300</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Dial Widget 1</string>
+    </property>
+    <property name="whatsThis">
+     <string>Widgets SCADA dial</string>
+    </property>
+   </widget>
+   <widget class="DoubleSpinBox" name="doubleSpinBox">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>400</y>
+      <width>81</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="whatsThis">
+     <string>DoubleSpinBox SCADA</string>
+    </property>
+   </widget>
+   <widget class="Display" name="display">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1271</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>21</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string>Display Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Display SCADA</string>
+    </property>
+    <property name="text">
+     <string>Simulation Data Acquisition, Sypervisory and Control</string>
+    </property>
+   </widget>
+   <widget class="Dial" name="dial2">
+    <property name="geometry">
+     <rect>
+      <x>960</x>
+      <y>70</y>
+      <width>300</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Dial Widget</string>
+    </property>
+    <property name="whatsThis">
+     <string>Dial SCADA</string>
+    </property>
+    <property name="label">
+     <string>kHz</string>
+    </property>
+    <property name="LabelFixed" stdset="0">
+     <bool>true</bool>
+    </property>
+    <property name="MaxValue">
+     <double>1500.000000000000000</double>
+    </property>
+    <property name="StepScale" stdset="0">
+     <double>100.000000000000000</double>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1305</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuSystem">
+    <property name="title">
+     <string>System</string>
+    </property>
+    <addaction name="actionRun"/>
+    <addaction name="actionStop"/>
+    <addaction name="separator"/>
+    <addaction name="actionCompile_and_Run"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menuLogs">
+    <property name="title">
+     <string>Logs</string>
+    </property>
+    <addaction name="actionAlarm_Log"/>
+    <addaction name="actionSystem_Logs"/>
+   </widget>
+   <widget class="QMenu" name="menuConfig">
+    <property name="title">
+     <string>Config</string>
+    </property>
+    <addaction name="actionESSA_Config"/>
+   </widget>
+   <widget class="QMenu" name="menuAnalisys">
+    <property name="title">
+     <string>Analisys</string>
+    </property>
+    <addaction name="actionHistogram"/>
+   </widget>
+   <addaction name="menuSystem"/>
+   <addaction name="menuLogs"/>
+   <addaction name="menuConfig"/>
+   <addaction name="menuAnalisys"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionRun">
+   <property name="text">
+    <string>Run</string>
+   </property>
+  </action>
+  <action name="actionStop">
+   <property name="text">
+    <string>Stop</string>
+   </property>
+  </action>
+  <action name="actionAlarm_Log">
+   <property name="text">
+    <string>Alarm Log</string>
+   </property>
+  </action>
+  <action name="actionSystem_Logs">
+   <property name="text">
+    <string>System Logs</string>
+   </property>
+  </action>
+  <action name="actionESSA_Config">
+   <property name="text">
+    <string>ESSA Config</string>
+   </property>
+  </action>
+  <action name="actionCompile_and_Run">
+   <property name="text">
+    <string>Compile and Run</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionHistogram">
+   <property name="text">
+    <string>Histogram</string>
+   </property>
+  </action>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>Dial_1</class>
+   <extends>QwtDial</extends>
+   <header>dial_1</header>
+  </customwidget>
+  <customwidget>
+   <class>Dial_3</class>
+   <extends>QwtDial</extends>
+   <header>dial_3</header>
+  </customwidget>
+  <customwidget>
+   <class>Dial</class>
+   <extends>QwtDial</extends>
+   <header>dial</header>
+  </customwidget>
+  <customwidget>
+   <class>Display</class>
+   <extends>QLabel</extends>
+   <header>display</header>
+  </customwidget>
+  <customwidget>
+   <class>DoubleSpinBox</class>
+   <extends>QDoubleSpinBox</extends>
+   <header>doubleSpinBox</header>
+  </customwidget>
+  <customwidget>
+   <class>DisplayLCD</class>
+   <extends>QLCDNumber</extends>
+   <header>lcd</header>
+  </customwidget>
+  <customwidget>
+   <class>Led</class>
+   <extends>QWidget</extends>
+   <header>led</header>
+  </customwidget>
+  <customwidget>
+   <class>OnOffButton</class>
+   <extends>QPushButton</extends>
+   <header>onOfButton</header>
+  </customwidget>
+  <customwidget>
+   <class>Plot</class>
+   <extends>QWidget</extends>
+   <header>plot</header>
+  </customwidget>
+  <customwidget>
+   <class>Slider</class>
+   <extends>QSlider</extends>
+   <header>slider</header>
+  </customwidget>
+  <customwidget>
+   <class>Thermometer</class>
+   <extends>QWidget</extends>
+   <header>thermometer</header>
+  </customwidget>
+  <customwidget>
+   <class>QwtDial</class>
+   <extends>QWidget</extends>
+   <header>qwt_dial.h</header>
+  </customwidget>
+  <customwidget>
+   <class>Thermo</class>
+   <extends>QWidget</extends>
+   <header>thermo</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

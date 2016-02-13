@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 
-__author__ = "Marcos V. Scholl"
-__email__ = "marcos.vinicius.scholl@gmail.com"
-__version__ = "20150328-1900"
-__status__ = "stable"
-__license__ = "GPL"
+# Form implementation generated from reading ui file 'lcd.ui'
+#
+# Created: Thu May 07 20:06:56 2015
+#      by: PyQt4 UI code generator 4.9.6
+#
+# WARNING! All changes made in this file will be lost!
 
 from PyQt4 import QtCore, QtGui
 
@@ -43,25 +44,18 @@ class DisplayLCD(Widget,QtGui.QLCDNumber):
         self.setProperty("value", 0.0)
         self.setObjectName("lcdNumber")
 
-    def setName(self, nome):
-        self.objectName = nome  
-        
-    def getName(self):
-        return self.objectName()
+
     @property
     def value(self):
         return self.value
     
-    @value.setter
+    #@value.setter
     def value(self, text):
         self.setValue(text)
         
-        
     def setValue(self, text):
         self.setProperty("value", float(text))
-              
     Value = QtCore.pyqtProperty(str,fget=value,fset=setValue)
-
 """
 if __name__ == "__main__":
     import sys
@@ -71,7 +65,8 @@ if __name__ == "__main__":
     
     
     display = DisplayLCD()
-    display.value =  ("99.99")
+    display.value(11)
+    display.setValue("99.99")
   
     
     layout.addWidget(display)
@@ -81,4 +76,3 @@ if __name__ == "__main__":
     window.show()
     sys.exit(app.exec_())
 """
-

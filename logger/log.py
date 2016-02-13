@@ -51,7 +51,7 @@ def LogCreate(logger_name="ESSA_Logger", log_file=None, level=None, pathLog=None
                                        when="m",
                                        interval=5,
                                        backupCount=5)
-    formatter = logging.Formatter('%(asctime)s %(name)-12s %(levelname)-8s %(message)s')
+    formatter = logging.Formatter('%(asctime)s; %(name)-12s %(levelname)-8s; %(message)s;')
     handler.setFormatter(formatter)
 
 
@@ -109,3 +109,43 @@ def LogAlarm(logger_name="ESSA_ALARM", log_file=None, level=None, pathLog=None):
             
     return logging.getLogger(logger_name)
 
+def LogCSV(logger_name="ESSA_Logger", log_file=None, level=None, pathLog=None): 
+    global pathInstall
+    pathFile = None
+    if log_file is None:
+        log_file = "Essa_LOG"
+    if level is None:
+        level = "INFO"
+        
+    pathInstall = '/home/scholl/Dropbox/Spyder/'
+        
+    if pathLog is None: 
+        if pathInstall is not None: pathFile = "{}essa/logs/{}.csv".format(pathInstall,log_file)
+    else: pathFile = "{}{}.csv".format(pathLog,log_file)
+    
+
+
+    logger = logging.getLogger(logger_name)
+    handler = TimedRotatingFileHandler(pathFile,
+                                       when="m",
+                                       interval=5,
+                                       backupCount=5)
+    formatter = logging.Formatter('%(message)s %(asctime)s ', datefmt='%d-%m-%y %H:%M')
+    handler.setFormatter(formatter)
+
+
+    logger.addHandler(handler)
+
+    if level is not None:
+        if level == "DEBUG":
+            logger.setLevel(logging.DEBUG)
+        elif level == "INFO":
+            logger.setLevel(logging.INFO)
+        elif level == "WARNING":
+            logger.setLevel(logging.WARNING)
+        elif level == "ERROR":
+            logger.setLevel(logging.ERROR)
+        elif level == "CRITICAL":
+            logger.setLevel(logging.CRITICAL)
+            
+    return logging.getLogger(logger_name)

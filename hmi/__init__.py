@@ -14,5 +14,10 @@ from .onOffButton import OnOffButton
 from .plot import Plot
 from .slider import Slider
 from .doubleSpinBox import DoubleSpinBox
+from .compass import WidgetBussola
+from .ai_imu import AttitudeIndicator
+from .video import Video
+from .thermoTop import ThermoTop
+from .instruments import Instruments
 
-__all__=['Dial','Dial_1','Dial_2','Dial_3','Display','DisplayLCD','Led','Thermometer','Thermo','OnOffButton','Plot','Slider','DoubleSpinBox']
+__all__=['Dial','Dial_1','Dial_2','Dial_3','Display','DisplayLCD','Led','Thermometer','Thermo','OnOffButton','Plot','Slider','DoubleSpinBox','WidgetBussola','AttitudeIndicator','Video','ThermoTop','Instruments']

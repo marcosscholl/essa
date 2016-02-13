@@ -1,0 +1,770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Thermo",
+				"thermoTop"
+			],
+			[
+				"top",
+				"topB"
+			],
+			[
+				"to",
+				"topC"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"pos",
+				"posC"
+			],
+			[
+				"mov",
+				"moveBC"
+			],
+			[
+				"mv",
+				"moveAC"
+			],
+			[
+				"pop",
+				"popA"
+			],
+			[
+				"push",
+				"pushB"
+			],
+			[
+				"pu",
+				"pushA"
+			],
+			[
+				"po",
+				"posA"
+			],
+			[
+				"P",
+				"posA"
+			],
+			[
+				"e",
+				"Enter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/scholl/Downloads/code-for-blog-master/2009/pyqt_dataplot_demo/qt_mpl_data.csv",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/logs/Essa_test.log",
+			"settings":
+			{
+				"buffer_size": 509180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/logs/Essa_test.csv",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/aware/Essa_test.csv",
+			"settings":
+			{
+				"buffer_size": 522,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/logs/Essa_LOG.csv",
+			"settings":
+			{
+				"buffer_size": 225108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/aware/Essa_test.log",
+			"settings":
+			{
+				"buffer_size": 2000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/scholl/Documentos/essa/logs/ESSA_Adapter.log.2015-07-21_22-24",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/aware/Essa_test2.csv",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/scholl/Dropbox/Spyder/essa/logs/ESSA_WarningAlarm.log",
+			"settings":
+			{
+				"buffer_size": 711,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/scholl/Documentos/essa",
+		"/home/scholl/Documentos/essa/aware",
+		"/home/scholl/Documentos/essa/logs"
+	],
+	"file_history":
+	[
+		"/home/scholl/Dropbox/Spyder/essa/logs/Essa_Alarm.log",
+		"/home/scholl/Dropbox/Spyder/essa/logs/ESSA_Adapter.log",
+		"/home/scholl/Dropbox/Spyder/essa/logs/Essa_test.log",
+		"/home/scholl/Dropbox/Spyder/essa/logs/ESSA_WarningAlarm.log.2016-01-18",
+		"/home/scholl/Dropbox/Spyder/essa/logs/Essa_test.log.2016-01-18_10-37",
+		"/home/scholl/Dropbox/Spyder/essa/logs/Essa_Alarm.log.2016-01-18",
+		"/home/scholl/Dropbox/Spyder/essa/logs/ESSA_Adapter.log.2016-01-18_10-33",
+		"/home/scholl/Dropbox/SCADA_WSL/sbc-template.bib",
+		"/home/scholl/Dropbox/TCC Revisado Final/Testes/Teste05/Teste05.xml",
+		"/home/scholl/Dropbox/Mechatronics 2016/ifacconf_latex/ifacconf.bib",
+		"/home/scholl/Dropbox/Artigos Referencias.txt",
+		"/home/scholl/Dropbox/Mestrado/TrabalhoAdriano/Fatoração.txt",
+		"/home/scholl/Dropbox/Mestrado/TrabalhoAdriano/Texto",
+		"/home/scholl/Dropbox/Mechatronics 2016/ifacconf_latex/images/scadaSample.xml",
+		"/home/scholl/Downloads/code-for-blog-master/2009/pyqt_dataplot_demo/qt_mpl_data.csv",
+		"/home/scholl/Documentos/essa/data/tag.sublime-project",
+		"/home/scholl/Dropbox/Spyder/essa/config/cockpit.xml",
+		"/home/scholl/Dropbox/TCC Revisado Final/bibliografia.bib",
+		"/home/scholl/Dropbox/ArtigoSCADA_WSL/sbc-template.bib",
+		"/home/scholl/Dropbox/Mechatronics 2016/ifacconf_latex/ifacconf.log",
+		"/home/scholl/Dropbox/Mechatronics 2016/ifacconf_latex/ifacconf.aux",
+		"/home/scholl/Dropbox/Mestrado/Barbara.txt",
+		"/home/scholl/Downloads/cobem2015_latex (1)/cobem2015_latex/bibfile.bib",
+		"/home/scholl/Documentos/cobem2015_latex/ArtigoJeferson/bibfile.bib",
+		"/home/scholl/GitHub/C_ProjectAndCodes/LedPotenciometro.ino",
+		"/home/scholl/Documentos/cobem2015_latex/cobem2015_latex/bibfile.bib",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/hanoi4.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/AlgoritmoHanoi.c",
+		"/home/scholl/GitHub/PythonProjectsAndCodes/Cockpit/horizon.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/aiplugin.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/compassplugin.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/dialplugin.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/thermoplugin.py",
+		"/home/scholl/Dropbox/Spyder/essa/hmi/__init__.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/thermoTopplugin.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/thermoTop.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/instrumentsplugin.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/videoplugin.py",
+		"/usr/lib/x86_64-linux-gnu/qt4/plugins/designer/python/horizonplugin.py",
+		"/home/scholl/GitHub/PythonProjectsAndCodes/interface_IMUxBussola/Original/__init__.py",
+		"/home/scholl/Documentos/Hanoi_Scholl.c",
+		"/home/scholl/Documentos/essa/ESSA_DependencieInstaller.sh",
+		"/media/scholl/3012-0F4C/installWifi.sh",
+		"/home/scholl/Dropbox/Spyder/essa/ESSA.desktop",
+		"/home/scholl/Documentos/essa/data/tag.py",
+		"/home/scholl/Documentos/essa/data/adapter.py",
+		"/home/scholl/Documentos/essa/data/generator.py",
+		"/home/scholl/Documentos/essa/runtime/essa.py",
+		"/home/scholl/Documentos/essa/logger/log.py",
+		"/home/scholl/GitHub/C_ProjectAndCodes/idx.cc",
+		"/home/scholl/GitHub/marcosscholl.github.io/css/styles.css",
+		"/home/scholl/GitHub/marcosscholl.github.io/css/themes/james.css",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/pyqt-testwidget-master/main_application.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/pyqt-testwidget-master/testwidget.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/pyqt-testwidget-master/testwidgetplugin.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/pyqt-testwidget-master/ui_mainwindow.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/MplayerCtrl/teste2.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/MplayerCtrl/teste.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/MplayerCtrl/setup.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/MplayerCtrl/MplayerCtrl.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/MplayerCtrl/ex-multiplay.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/MplayerCtrl/ex-Mplayer-playlist.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/accel7260dial/interfaz qwt dial/testanalogdial.py",
+		"/home/scholl/GitHub/PythonProjectsAndCodes/interface_IMUxBussola/Modificado/testanalogdial.py",
+		"/home/scholl/GitHub/PythonProjectsAndCodes/interface_IMUxBussola/Original/testanalogdial.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/face_detect_rpi/facedetect.py",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/minimu-9-ahrs-arduino-master/MinIMU-9-test.py",
+		"/media/scholl/d451f2e3-29c8-4e12-837e-8c5a74fc6729/home/scholl/Dropbox/Spyder/essa/Spyder/TA2/WebKit.py",
+		"/home/scholl/GitHub/marcosscholl.github.io/index.html",
+		"/media/scholl/56EAB13CEAB11967/Users/MarcosScholl/Documents/Python/accel7260dial/accel7260dial/interfaz qwt dial/testanalogdial.py",
+		"/home/scholl/GitHub/PythonProjectsAndCodes/interface_IMUxBussola/testanalogdial.py",
+		"/home/scholl/GitHub/marcosscholl.github.io/vendor/nivo-lightbox/nivo-lightbox.min.js",
+		"/home/scholl/GitHub/marcosscholl.github.io/js/main.js",
+		"/home/scholl/GitHub/marcosscholl.github.io/vendor/nivo-lightbox/themes/default/default.css",
+		"/home/scholl/GitHub/marcosscholl.github.io/vendor/nivo-lightbox/nivo-lightbox.css",
+		"/home/scholl/GitHub/marcosscholl.github.io/vendor/animate.css",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap04-1.c",
+		"/home/scholl/Dropbox/Spyder/base_boxes.py",
+		"/home/scholl/Dropbox/Spyder/base_boxes-Final-CopiaDeSeguranca.py",
+		"/home/scholl/Dropbox/Spyder/base_boxes2.py",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap04-2.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap04-3.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap04-4.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap04-5.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap05-1.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap05-2.c",
+		"/home/scholl/Documentos/CodeBlocks/Algoritmos/Cap05-3.c",
+		"/media/scholl/d451f2e3-29c8-4e12-837e-8c5a74fc6729/usr/local/lib/python2.7/dist-packages/easygui/boxes/base_boxes.py",
+		"/home/scholl/Documentos/site/johnwillker.cf/index.html",
+		"/home/scholl/Documentos/CodeBlocks/bytesPointer.c",
+		"/home/scholl/Documentos/essa/README.md",
+		"/home/scholl/Dropbox/TCC Desenvolvimento/DesenvolvimentoSistema-old.tex",
+		"/home/scholl/Documentos/CodeBlocks/Cap6.c",
+		"/home/scholl/Dropbox/TCC Revisado Final/DesenvolvimentoSistema-crr.tex",
+		"/home/scholl/Dropbox/TCC Revisado Final/DesenvolvimentoSistema.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Design",
+			"mod",
+			" ̃ao",
+			"́e",
+			" ̧ca  ̃o",
+			" ̃a",
+			" ̧c ̃o",
+			" ̧ca  ̃o",
+			" ̧co",
+			" ̧c ̃ao",
+			" ̧c ̃",
+			" ̧c ̃\n",
+			" ́e",
+			" ̧c ̃\n",
+			" ̃a",
+			" ̧c ̃a",
+			" ̧ca  ̃o",
+			" ́a",
+			"ˆe",
+			" ́",
+			" ́e",
+			" ̧c ̃",
+			" ́e",
+			"obtida",
+			" ́e",
+			" ̧c ̃a",
+			"elementar",
+			"́e",
+			" ̧ca ",
+			" ̧c",
+			"´e",
+			"¸c˜o",
+			"˜a",
+			"´e ",
+			"¸c˜a",
+			"´e",
+			"˜a",
+			"¸c˜a",
+			"´e",
+			"́",
+			"sea",
+			"seaf",
+			"disser",
+			"attitudeIndicator",
+			"AttitudeIndicator",
+			"thermo.",
+			"Thermo.",
+			"thermo.",
+			"Video",
+			"Thermo",
+			"WidgetBussola",
+			"compass",
+			"WidgetBussolaPlugin",
+			"DialPlugin",
+			"attitudeIndicator",
+			"AttitudeIndicator",
+			"Dial",
+			"dial",
+			"Dial",
+			"DialPlugin",
+			"para a Torre",
+			"da Torre",
+			"Pino",
+			"p ",
+			"p",
+			"char p",
+			"]\\n",
+			"1",
+			"TORRES[1][",
+			"[1]",
+			"B",
+			"QTD",
+			"posB",
+			"posC",
+			"pos",
+			"posC",
+			"topA()",
+			"topC()",
+			"topB()",
+			"5",
+			"DISCOS",
+			"5",
+			"topC",
+			"8",
+			"\"",
+			"A",
+			"C",
+			"A",
+			"B",
+			"A",
+			"B",
+			"int i",
+			"A",
+			"tarefa",
+			"novaTarefa",
+			"[15/10/2015, 21:35] +55 53 9702-1917: ",
+			"gma",
+			"conta",
+			"find",
+			"send me",
+			"github",
+			"send",
+			"sk",
+			"intro",
+			"0.3s",
+			"0.2s",
+			"2s",
+			"0.2s",
+			"0.2",
+			"2s",
+			"0.2s",
+			"0.2",
+			"dura",
+			"duration",
+			"LOA",
+			"FULL S",
+			"btn",
+			".btn",
+			"lattes",
+			"default",
+			".timeline-education",
+			"timeline-education",
+			".timeline-education",
+			"resume",
+			"jh",
+			"for",
+			"SCADA for",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/scholl/Downloads/code-for-blog-master/2009/pyqt_dataplot_demo/qt_mpl_data.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/scholl/Dropbox/Spyder/essa/logs/Essa_test.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 509180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11544,
+								11544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2074.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/scholl/Dropbox/Spyder/essa/logs/Essa_test.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/scholl/Dropbox/Spyder/essa/aware/Essa_test.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/scholl/Dropbox/Spyder/essa/logs/Essa_LOG.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/scholl/Dropbox/Spyder/essa/aware/Essa_test.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2000,
+								2000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/scholl/Documentos/essa/logs/ESSA_Adapter.log.2015-07-21_22-24",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/scholl/Dropbox/Spyder/essa/aware/Essa_test2.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/scholl/Dropbox/Spyder/essa/logs/ESSA_WarningAlarm.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tag.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

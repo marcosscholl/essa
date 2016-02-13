@@ -1,0 +1,113 @@
+<essa>
+	<install path="/home/scholl/Dropbox/Spyder/"></install>
+	<logs path="/home/scholl/Dropbox/Spyder/essa/logs/"></logs>
+	<window name="cockpit.ui"> </window>
+	<scan>0.1</scan>
+	<tags>
+          <tag name="tagProfundidade" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>2.5</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=26,max=2,step=1)</provider>
+		</tag>  
+		
+		<tag name="tagRPM" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SineGenerator(1,min=-1,max=30,step=2)</provider>
+		</tag>
+            <tag name="tag2" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>0.1</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SineGenerator(1,min=-1,max=3,step=10)</provider>
+		</tag>
+
+
+        <tag name="tagTemp" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>5</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=24,max=2,step=-1)</provider>
+		</tag> 
+
+        <tag name="tagPressure" id="3">
+			<startValue>0</startValue>
+			<readOnly>False</readOnly>
+			<scan>10</scan>
+			<providerEnable>True</providerEnable>
+			<provider>SequenceGenerator(1,min=1,max=2,step=1)</provider>
+		</tag>  
+		
+	</tags>
+    <adapters>
+		 <adapter type="AdapterContinuous" name="Adapter04" id="1">
+			<startValue>1</startValue>
+			<widget>thermoTop</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagProfundidade</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+
+		 <adapter type="AdapterContinuous" name="Adapter05" id="1">
+			<startValue>1</startValue>
+			<widget>displayDepth</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagProfundidade</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+
+		 <adapter type="AdapterContinuous" name="Adapter01" id="1">
+			<startValue>1</startValue>
+			<widget>compass</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagRPM</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+        <adapter type="AdapterContinuous" name="Adapter02" id="1">
+			<startValue>1</startValue>
+			<widget>attitudeIndicator</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tag2</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>
+
+    <adapter type="AdapterContinuous" name="Adapter07" id="1">
+			<startValue>1</startValue>
+			<widget>displayTemperature</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagTemp</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter>    
+    <adapter type="AdapterContinuous" name="Adapter08" id="1">
+			<startValue>1</startValue>
+			<widget>displayPressure</widget>
+			<widgetProprierty>value</widgetProprierty>
+			<tag>tagPressure</tag>
+			<tagProprierty>value</tagProprierty>
+			<direction>1</direction>
+	    </adapter> 
+
+ 
+  </adapters>
+  <alarms>
+  		<alarm>
+            <name>Alarme1</name>
+            <id>1</id>
+            <tags>tagPressure</tags>
+            <type>maxmax</type>
+            <value>2</value>
+            <lifeGui>8</lifeGui>
+  		</alarm>
+  </alarms>
+</essa>

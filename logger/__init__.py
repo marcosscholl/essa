@@ -3,6 +3,6 @@
 __author__ = "MarcosScholl"
 __date__ = "$10/06/2015 17:19:40$"
 
-from .log import LogCreate, LogAlarm
+from .log import LogCreate, LogAlarm, LogCSV
 
-__all__=['LogCreate', 'LogAlarm']
+__all__=['LogCreate', 'LogAlarm', 'LogCSV']
